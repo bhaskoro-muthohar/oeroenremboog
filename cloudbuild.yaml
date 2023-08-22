@@ -1,0 +1,24 @@
+steps:
+  - name: 'gcr.io/cloud-builders/git'
+    args: ['clone', 'https://github.com/bhaskoro-muthohar/oeroenremboog']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/warm-canto-396605/oeroenremboog', './oeroenremboog']
+    
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/warm-canto-396605/oeroenremboog']
+
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args:
+      - 'run'
+      - 'deploy'
+      - 'oeroenremboog'
+      - '--image'
+      - 'gcr.io/warm-canto-396605/oeroenremboog'
+      - '--region'
+      - 'asia-southeast2'
+      - '--platform'
+      - 'managed'
+
+images:
+  - 'gcr.io/warm-canto-396605/oeroenremboog'
