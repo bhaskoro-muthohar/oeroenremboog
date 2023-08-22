@@ -10,6 +10,7 @@ def read_raw_data():
         "DM2021_fkrtldxsekunder": "raw_data/DM2021_fkrtldxsekunder.dta",
         "DM2021_fktpnonkapitasi": "raw_data/DM2021_fktpnonkapitasi.dta",
         "DM2021_kepesertaan": "raw_data/DM2021_kepesertaan.dta",
+        "DM2021_fkrtl": "raw_data/DM2021_fkrtl.dta",
     }
     return {name: pd.read_stata(path) for name, path in files.items()}
 
