@@ -1,6 +1,6 @@
 import duckdb
 
 def connect_to_db():
-    conn = duckdb.connect('my_database.duckdb')
+    conn = duckdb.connect('oeroenremboog.db')
     # Additional configuration here
     return conn
