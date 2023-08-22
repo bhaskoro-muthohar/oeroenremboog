@@ -1,2 +1,2 @@
-src/data/indonesia-cities.json filter=lfs diff=lfs merge=lfs -text
 *.dta filter=lfs diff=lfs merge=lfs -text
+src/data/indonesia-cities.json filter=lfs diff=lfs merge=lfs -text
