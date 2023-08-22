@@ -3,3 +3,4 @@ __pycache__
 *.duckdb
 *.db*
 .env
+raw_data/*.dta
