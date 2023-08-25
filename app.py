@@ -3,9 +3,9 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import geopandas as gpd
-import plotly.express as px
 import plotly.graph_objects as go
 import random
+from streamlit_option_menu import option_menu
 from database_config import connect_to_db
 
 def fetch_data():
@@ -16,7 +16,7 @@ def fetch_data():
     return result
 
 def data_view():
-    st.title('DuckDB Data Viewer')
+    st.title('Oeroenremboog Data Visualization')
     st.subheader('Data from dm2021_kepesertaan table')
     data = fetch_data()
     st.write(data)
@@ -87,15 +87,10 @@ def table_view(indonesia_map=None):
         st.write("No data available")
 
 def main():
-    st.title("Navigation")
     pages = ["Data View", "Distribution Chart", "Correlation Heatmap", "Interactive Map", "Table View"]
-    selected_page = st.session_state.selected_page if 'selected_page' in st.session_state else pages[0]
 
-    cols = st.columns(len(pages))
-    for idx, page in enumerate(pages):
-        if cols[idx].button(page):
-            selected_page = page
-            st.session_state.selected_page = selected_page
+    with st.sidebar:
+        selected_page = option_menu("Menu Navigasi", pages)
 
     if selected_page == "Data View":
         data_view()
