@@ -4,3 +4,4 @@ __pycache__
 *.db*
 .env
 raw_data/*.dta
+indonesia-prov.geojson
