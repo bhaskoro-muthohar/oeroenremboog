@@ -6,7 +6,7 @@ from src.pages import data_view, distribution_chart, correlation_heatmap, intera
 
 st.set_page_config(
     page_title="Oeroenremboog Dashboard",
-    layout="wide",
+    layout="centered",
     initial_sidebar_state="expanded"
 )
 
