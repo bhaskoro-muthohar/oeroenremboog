@@ -6,8 +6,13 @@ from src.pages import data_view, distribution_chart, correlation_heatmap, intera
 
 st.set_page_config(
     page_title="Oeroenremboog Dashboard",
+    page_icon="🦈",
     layout="centered",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
+    menu_items={
+    'Report a bug': "mailto:bhaskoro.jr@gmail.com",
+    'About': "# [Click for the secret](https://www.youtube.com/watch?v=dQw4w9WgXcQ)"
+    }
 )
 
 def html_component():
@@ -31,6 +36,19 @@ def main():
 
     page = pages[selected_page]
     page()
+
+    html_string='''
+    <script>
+    // To break out of iframe and access the parent window
+    const streamlitDoc = window.parent.document;
+
+    // Make the replacement
+    document.addEventListener("DOMContentLoaded", function(event){
+            streamlitDoc.getElementsByTagName("footer")[0].innerHTML = "Made with ♥ and Streamlit";
+        });
+    </script>
+    '''
+    components.html(html_string)
 
 if __name__ == "__main__":
     main()
