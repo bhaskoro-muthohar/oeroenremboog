@@ -17,7 +17,7 @@ def main():
     if 'indonesia_map' not in st.session_state:
         st.session_state.indonesia_map = None
     pages = {
-        "Welcome Page": welcome_page.WelcomePage(),
+        # "Welcome Page": welcome_page.WelcomePage(),
         "Data View": data_view.DataView(),
         "Distribution Chart": distribution_chart.DistributionChart(),
         "Correlation Heatmap": correlation_heatmap.CorrelationHeatmap(),

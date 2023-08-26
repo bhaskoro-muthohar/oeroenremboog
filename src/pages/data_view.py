@@ -8,6 +8,8 @@ class DataView:
     def data_view(self):
         st.title('Oeroenremboog Data Visualization')
 
+        st.image("https://media.tenor.com/IvHXfYajV40AAAAC/lest-go.gif")
+
         # Introduction or Context about the data
         st.markdown("""
         ## Context

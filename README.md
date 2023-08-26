@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # [Oeroenremboog](https://oeroenremboog-yrln4wnriq-et.a.run.app/)
 
 Oeroenremboog is a data visualization and analysis project created for a hackathon event. It aims to provide insights through visualization, correlation analysis, and regression prediction.
