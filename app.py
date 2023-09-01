@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 from streamlit_option_menu import option_menu
 
-from src.pages import data_view, distribution_chart, correlation_heatmap, interactive_map, table_view, welcome_page
+from src.pages import halaman_pengantar, gambaran_umum, correlation_heatmap, interactive_map, table_view, welcome_page
 
 st.set_page_config(
     page_title="Oeroenremboog Dashboard",
@@ -23,8 +23,8 @@ def main():
         st.session_state.indonesia_map = None
     pages = {
         # "Welcome Page": welcome_page.WelcomePage(),
-        "Data View": data_view.DataView(),
-        "Distribution Chart": distribution_chart.DistributionChart(),
+        "Pengantar": halaman_pengantar.HalamanPengantar(),
+        "1. Gambaran Umum": gambaran_umum.GambaranUmum(),
         "Correlation Heatmap": correlation_heatmap.CorrelationHeatmap(),
         "Interactive Map": interactive_map.InteractiveMap(),
         "Table View": table_view.TableView(),
