@@ -36,9 +36,9 @@ class InteractiveMap:
 
         fig.update_layout(
             mapbox=dict(
-                center=dict(lat=-2, lon=118),  # Center of Indonesia
-                zoom=3.4,  # Zoom level
-                style='carto-positron'  # Built-in free style
+                center=dict(lat=-2, lon=118),
+                zoom=3.4,
+                style='carto-positron'
             ),
             margin={"r": 0, "t": 0, "l": 0, "b": 0}
         )
