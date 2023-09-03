@@ -7,7 +7,7 @@ from src.pages import halaman_pengantar, gambaran_umum, correlation_heatmap, int
 st.set_page_config(
     page_title="Oeroenremboog Dashboard",
     page_icon="🦈",
-    layout="centered",
+    layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
     'Report a bug': "mailto:bhaskoro.jr@gmail.com",

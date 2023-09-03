@@ -1,0 +1,2436 @@
+[{
+    "kabupaten_tinggal": "SIDOARJO",
+    "total_dm_tipe_i": "1615",
+    "total_dm_tipe_ii": "6782",
+    "diff_percentage": "-0.61533881148029057"
+  }, {
+    "kabupaten_tinggal": "MUSI BANYUASIN",
+    "total_dm_tipe_i": "389",
+    "total_dm_tipe_ii": "342",
+    "diff_percentage": "0.06429548563611491"
+  }, {
+    "kabupaten_tinggal": "KOTA JAKARTA TIMUR",
+    "total_dm_tipe_i": "1151",
+    "total_dm_tipe_ii": "16158",
+    "diff_percentage": "-0.86700560402102955"
+  }, {
+    "kabupaten_tinggal": "KOTA JAMBI",
+    "total_dm_tipe_i": "699",
+    "total_dm_tipe_ii": "2237",
+    "diff_percentage": "-0.523841961852861"
+  }, {
+    "kabupaten_tinggal": "KOTA SAMARINDA",
+    "total_dm_tipe_i": "180",
+    "total_dm_tipe_ii": "3077",
+    "diff_percentage": "-0.88946883635247165"
+  }, {
+    "kabupaten_tinggal": "KOTA LANGSA",
+    "total_dm_tipe_i": "128",
+    "total_dm_tipe_ii": "1007",
+    "diff_percentage": "-0.7744493392070485"
+  }, {
+    "kabupaten_tinggal": "LUMAJANG",
+    "total_dm_tipe_i": "166",
+    "total_dm_tipe_ii": "1038",
+    "diff_percentage": "-0.72425249169435213"
+  }, {
+    "kabupaten_tinggal": "GRESIK",
+    "total_dm_tipe_i": "711",
+    "total_dm_tipe_ii": "4697",
+    "diff_percentage": "-0.73705621301775148"
+  }, {
+    "kabupaten_tinggal": "BANYUMAS",
+    "total_dm_tipe_i": "314",
+    "total_dm_tipe_ii": "6963",
+    "diff_percentage": "-0.9137007008382575"
+  }, {
+    "kabupaten_tinggal": "KULON PROGO",
+    "total_dm_tipe_i": "516",
+    "total_dm_tipe_ii": "2320",
+    "diff_percentage": "-0.63610719322990128"
+  }, {
+    "kabupaten_tinggal": "KOTA MEDAN",
+    "total_dm_tipe_i": "1372",
+    "total_dm_tipe_ii": "6488",
+    "diff_percentage": "-0.65089058524173027"
+  }, {
+    "kabupaten_tinggal": "KEBUMEN",
+    "total_dm_tipe_i": "186",
+    "total_dm_tipe_ii": "3948",
+    "diff_percentage": "-0.91001451378809872"
+  }, {
+    "kabupaten_tinggal": "KOTA JAKARTA SELATAN",
+    "total_dm_tipe_i": "1624",
+    "total_dm_tipe_ii": "8252",
+    "diff_percentage": "-0.67112191170514379"
+  }, {
+    "kabupaten_tinggal": "KOTA BANDUNG",
+    "total_dm_tipe_i": "521",
+    "total_dm_tipe_ii": "6440",
+    "diff_percentage": "-0.850308863669013"
+  }, {
+    "kabupaten_tinggal": "KOTA JAKARTA BARAT",
+    "total_dm_tipe_i": "1364",
+    "total_dm_tipe_ii": "6670",
+    "diff_percentage": "-0.66044311675379641"
+  }, {
+    "kabupaten_tinggal": "KOTA PEKANBARU",
+    "total_dm_tipe_i": "293",
+    "total_dm_tipe_ii": "3557",
+    "diff_percentage": "-0.84779220779220776"
+  }, {
+    "kabupaten_tinggal": "KOTA PEMATANG SIANTAR",
+    "total_dm_tipe_i": "156",
+    "total_dm_tipe_ii": "910",
+    "diff_percentage": "-0.70731707317073167"
+  }, {
+    "kabupaten_tinggal": "BOGOR",
+    "total_dm_tipe_i": "466",
+    "total_dm_tipe_ii": "4898",
+    "diff_percentage": "-0.82624906785980612"
+  }, {
+    "kabupaten_tinggal": "SAMBAS",
+    "total_dm_tipe_i": "58",
+    "total_dm_tipe_ii": "817",
+    "diff_percentage": "-0.86742857142857144"
+  }, {
+    "kabupaten_tinggal": "KOTA BEKASI",
+    "total_dm_tipe_i": "1654",
+    "total_dm_tipe_ii": "6407",
+    "diff_percentage": "-0.58962907827812927"
+  }, {
+    "kabupaten_tinggal": "KOTA SEMARANG",
+    "total_dm_tipe_i": "1172",
+    "total_dm_tipe_ii": "22921",
+    "diff_percentage": "-0.90271033080147756"
+  }, {
+    "kabupaten_tinggal": "KOTA SERANG",
+    "total_dm_tipe_i": "117",
+    "total_dm_tipe_ii": "571",
+    "diff_percentage": "-0.65988372093023251"
+  }, {
+    "kabupaten_tinggal": "KOTA JAKARTA UTARA",
+    "total_dm_tipe_i": "722",
+    "total_dm_tipe_ii": "4297",
+    "diff_percentage": "-0.71229328551504278"
+  }, {
+    "kabupaten_tinggal": "KENDAL",
+    "total_dm_tipe_i": "210",
+    "total_dm_tipe_ii": "1932",
+    "diff_percentage": "-0.803921568627451"
+  }, {
+    "kabupaten_tinggal": "DEMAK",
+    "total_dm_tipe_i": "307",
+    "total_dm_tipe_ii": "6008",
+    "diff_percentage": "-0.90277117973079968"
+  }, {
+    "kabupaten_tinggal": "KUNINGAN",
+    "total_dm_tipe_i": "91",
+    "total_dm_tipe_ii": "899",
+    "diff_percentage": "-0.8161616161616162"
+  }, {
+    "kabupaten_tinggal": "CIANJUR",
+    "total_dm_tipe_i": "322",
+    "total_dm_tipe_ii": "1187",
+    "diff_percentage": "-0.57322730284956924"
+  }, {
+    "kabupaten_tinggal": "BATANG",
+    "total_dm_tipe_i": "65",
+    "total_dm_tipe_ii": "2191",
+    "diff_percentage": "-0.94237588652482274"
+  }, {
+    "kabupaten_tinggal": "SOLOK",
+    "total_dm_tipe_i": "82",
+    "total_dm_tipe_ii": "928",
+    "diff_percentage": "-0.83762376237623759"
+  }, {
+    "kabupaten_tinggal": "BIREUEN",
+    "total_dm_tipe_i": "200",
+    "total_dm_tipe_ii": "706",
+    "diff_percentage": "-0.55849889624724058"
+  }, {
+    "kabupaten_tinggal": "KOTA TANGERANG",
+    "total_dm_tipe_i": "977",
+    "total_dm_tipe_ii": "4665",
+    "diff_percentage": "-0.65366891173342789"
+  }, {
+    "kabupaten_tinggal": "CIAMIS",
+    "total_dm_tipe_i": "246",
+    "total_dm_tipe_ii": "749",
+    "diff_percentage": "-0.50552763819095481"
+  }, {
+    "kabupaten_tinggal": "ACEH BARAT",
+    "total_dm_tipe_i": "167",
+    "total_dm_tipe_ii": "916",
+    "diff_percentage": "-0.69159741458910429"
+  }, {
+    "kabupaten_tinggal": "KAMPAR",
+    "total_dm_tipe_i": "306",
+    "total_dm_tipe_ii": "1017",
+    "diff_percentage": "-0.5374149659863946"
+  }, {
+    "kabupaten_tinggal": "KOTA SALATIGA",
+    "total_dm_tipe_i": "135",
+    "total_dm_tipe_ii": "2398",
+    "diff_percentage": "-0.89340702724042642"
+  }, {
+    "kabupaten_tinggal": "KOTA TEBING TINGGI",
+    "total_dm_tipe_i": "7",
+    "total_dm_tipe_ii": "697",
+    "diff_percentage": "-0.98011363636363635"
+  }, {
+    "kabupaten_tinggal": "WONOSOBO",
+    "total_dm_tipe_i": "100",
+    "total_dm_tipe_ii": "1446",
+    "diff_percentage": "-0.87063389391979307"
+  }, {
+    "kabupaten_tinggal": "KUANTAN SINGINGI",
+    "total_dm_tipe_i": "50",
+    "total_dm_tipe_ii": "608",
+    "diff_percentage": "-0.84802431610942253"
+  }, {
+    "kabupaten_tinggal": "BANJARNEGARA",
+    "total_dm_tipe_i": "77",
+    "total_dm_tipe_ii": "1483",
+    "diff_percentage": "-0.9012820512820513"
+  }, {
+    "kabupaten_tinggal": "KOTA MOJOKERTO",
+    "total_dm_tipe_i": "132",
+    "total_dm_tipe_ii": "1217",
+    "diff_percentage": "-0.80429948109710891"
+  }, {
+    "kabupaten_tinggal": "SEKADAU",
+    "total_dm_tipe_i": "108",
+    "total_dm_tipe_ii": "186",
+    "diff_percentage": "-0.26530612244897961"
+  }, {
+    "kabupaten_tinggal": "KOTA PONTIANAK",
+    "total_dm_tipe_i": "133",
+    "total_dm_tipe_ii": "1167",
+    "diff_percentage": "-0.79538461538461536"
+  }, {
+    "kabupaten_tinggal": "SUMEDANG",
+    "total_dm_tipe_i": "184",
+    "total_dm_tipe_ii": "1541",
+    "diff_percentage": "-0.78666666666666663"
+  }, {
+    "kabupaten_tinggal": "TEGAL",
+    "total_dm_tipe_i": "313",
+    "total_dm_tipe_ii": "2585",
+    "diff_percentage": "-0.7839889579020014"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN MERANTI",
+    "total_dm_tipe_i": "15",
+    "total_dm_tipe_ii": "289",
+    "diff_percentage": "-0.90131578947368418"
+  }, {
+    "kabupaten_tinggal": "SUKOHARJO",
+    "total_dm_tipe_i": "174",
+    "total_dm_tipe_ii": "4598",
+    "diff_percentage": "-0.92707460184409052"
+  }, {
+    "kabupaten_tinggal": "SLEMAN",
+    "total_dm_tipe_i": "1758",
+    "total_dm_tipe_ii": "8458",
+    "diff_percentage": "-0.65583398590446362"
+  }, {
+    "kabupaten_tinggal": "ACEH BESAR",
+    "total_dm_tipe_i": "1216",
+    "total_dm_tipe_ii": "1788",
+    "diff_percentage": "-0.1904127829560586"
+  }, {
+    "kabupaten_tinggal": "BANDUNG",
+    "total_dm_tipe_i": "346",
+    "total_dm_tipe_ii": "3253",
+    "diff_percentage": "-0.80772436787996671"
+  }, {
+    "kabupaten_tinggal": "WONOGIRI",
+    "total_dm_tipe_i": "444",
+    "total_dm_tipe_ii": "3007",
+    "diff_percentage": "-0.74268328020863517"
+  }, {
+    "kabupaten_tinggal": "PIDIE",
+    "total_dm_tipe_i": "221",
+    "total_dm_tipe_ii": "731",
+    "diff_percentage": "-0.5357142857142857"
+  }, {
+    "kabupaten_tinggal": "KOTA SINGKAWANG",
+    "total_dm_tipe_i": "55",
+    "total_dm_tipe_ii": "1080",
+    "diff_percentage": "-0.90308370044052866"
+  }, {
+    "kabupaten_tinggal": "LEBAK",
+    "total_dm_tipe_i": "148",
+    "total_dm_tipe_ii": "782",
+    "diff_percentage": "-0.68172043010752692"
+  }, {
+    "kabupaten_tinggal": "KLATEN",
+    "total_dm_tipe_i": "297",
+    "total_dm_tipe_ii": "6967",
+    "diff_percentage": "-0.91822687224669608"
+  }, {
+    "kabupaten_tinggal": "MALUKU TENGAH",
+    "total_dm_tipe_i": "53",
+    "total_dm_tipe_ii": "225",
+    "diff_percentage": "-0.61870503597122306"
+  }, {
+    "kabupaten_tinggal": "KOTA TANGERANG SELATAN",
+    "total_dm_tipe_i": "411",
+    "total_dm_tipe_ii": "3464",
+    "diff_percentage": "-0.78787096774193544"
+  }, {
+    "kabupaten_tinggal": "BREBES",
+    "total_dm_tipe_i": "234",
+    "total_dm_tipe_ii": "1386",
+    "diff_percentage": "-0.71111111111111114"
+  }, {
+    "kabupaten_tinggal": "MEMPAWAH",
+    "total_dm_tipe_i": "213",
+    "total_dm_tipe_ii": "480",
+    "diff_percentage": "-0.38528138528138528"
+  }, {
+    "kabupaten_tinggal": "KOTA SURAKARTA",
+    "total_dm_tipe_i": "189",
+    "total_dm_tipe_ii": "6085",
+    "diff_percentage": "-0.93975135479757732"
+  }, {
+    "kabupaten_tinggal": "KOTA CIREBON",
+    "total_dm_tipe_i": "121",
+    "total_dm_tipe_ii": "1486",
+    "diff_percentage": "-0.84940883634100806"
+  }, {
+    "kabupaten_tinggal": "KOTA PALEMBANG",
+    "total_dm_tipe_i": "884",
+    "total_dm_tipe_ii": "3935",
+    "diff_percentage": "-0.63311890433699936"
+  }, {
+    "kabupaten_tinggal": "KUDUS",
+    "total_dm_tipe_i": "173",
+    "total_dm_tipe_ii": "6290",
+    "diff_percentage": "-0.94646449017484136"
+  }, {
+    "kabupaten_tinggal": "BENGKULU SELATAN",
+    "total_dm_tipe_i": "47",
+    "total_dm_tipe_ii": "311",
+    "diff_percentage": "-0.73743016759776536"
+  }, {
+    "kabupaten_tinggal": "KOTA BANDAR LAMPUNG",
+    "total_dm_tipe_i": "238",
+    "total_dm_tipe_ii": "2656",
+    "diff_percentage": "-0.8355217691776089"
+  }, {
+    "kabupaten_tinggal": "DELI SERDANG",
+    "total_dm_tipe_i": "401",
+    "total_dm_tipe_ii": "2916",
+    "diff_percentage": "-0.75821525474826645"
+  }, {
+    "kabupaten_tinggal": "KOTA DEPOK",
+    "total_dm_tipe_i": "304",
+    "total_dm_tipe_ii": "4196",
+    "diff_percentage": "-0.86488888888888893"
+  }, {
+    "kabupaten_tinggal": "BEKASI",
+    "total_dm_tipe_i": "992",
+    "total_dm_tipe_ii": "3689",
+    "diff_percentage": "-0.57615894039735094"
+  }, {
+    "kabupaten_tinggal": "BANTUL",
+    "total_dm_tipe_i": "1255",
+    "total_dm_tipe_ii": "5381",
+    "diff_percentage": "-0.62176009644364072"
+  }, {
+    "kabupaten_tinggal": "KOTA DUMAI",
+    "total_dm_tipe_i": "50",
+    "total_dm_tipe_ii": "952",
+    "diff_percentage": "-0.90019960079840322"
+  }, {
+    "kabupaten_tinggal": "KOTA METRO",
+    "total_dm_tipe_i": "117",
+    "total_dm_tipe_ii": "583",
+    "diff_percentage": "-0.6657142857142857"
+  }, {
+    "kabupaten_tinggal": "REMBANG",
+    "total_dm_tipe_i": "41",
+    "total_dm_tipe_ii": "1454",
+    "diff_percentage": "-0.94515050167224079"
+  }, {
+    "kabupaten_tinggal": "SAMOSIR",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "156",
+    "diff_percentage": "-0.63350785340314131"
+  }, {
+    "kabupaten_tinggal": "PESAWARAN",
+    "total_dm_tipe_i": "74",
+    "total_dm_tipe_ii": "776",
+    "diff_percentage": "-0.82588235294117651"
+  }, {
+    "kabupaten_tinggal": "KOTA JAKARTA PUSAT",
+    "total_dm_tipe_i": "794",
+    "total_dm_tipe_ii": "4072",
+    "diff_percentage": "-0.67365392519523226"
+  }, {
+    "kabupaten_tinggal": "MUKOMUKO",
+    "total_dm_tipe_i": "81",
+    "total_dm_tipe_ii": "185",
+    "diff_percentage": "-0.39097744360902253"
+  }, {
+    "kabupaten_tinggal": "SEMARANG",
+    "total_dm_tipe_i": "532",
+    "total_dm_tipe_ii": "4362",
+    "diff_percentage": "-0.78259092766653049"
+  }, {
+    "kabupaten_tinggal": "LAMPUNG UTARA",
+    "total_dm_tipe_i": "106",
+    "total_dm_tipe_ii": "436",
+    "diff_percentage": "-0.60885608856088558"
+  }, {
+    "kabupaten_tinggal": "PATI",
+    "total_dm_tipe_i": "106",
+    "total_dm_tipe_ii": "5296",
+    "diff_percentage": "-0.960755275823769"
+  }, {
+    "kabupaten_tinggal": "KOTA YOGYAKARTA",
+    "total_dm_tipe_i": "694",
+    "total_dm_tipe_ii": "3721",
+    "diff_percentage": "-0.68561721404303511"
+  }, {
+    "kabupaten_tinggal": "KOTA PADANG",
+    "total_dm_tipe_i": "208",
+    "total_dm_tipe_ii": "6281",
+    "diff_percentage": "-0.93589150870704274"
+  }, {
+    "kabupaten_tinggal": "MAJALENGKA",
+    "total_dm_tipe_i": "172",
+    "total_dm_tipe_ii": "1183",
+    "diff_percentage": "-0.74612546125461254"
+  }, {
+    "kabupaten_tinggal": "BATANG HARI",
+    "total_dm_tipe_i": "130",
+    "total_dm_tipe_ii": "277",
+    "diff_percentage": "-0.36117936117936117"
+  }, {
+    "kabupaten_tinggal": "SRAGEN",
+    "total_dm_tipe_i": "288",
+    "total_dm_tipe_ii": "3091",
+    "diff_percentage": "-0.82953536549274931"
+  }, {
+    "kabupaten_tinggal": "OGAN KOMERING ULU SELATAN",
+    "total_dm_tipe_i": "56",
+    "total_dm_tipe_ii": "198",
+    "diff_percentage": "-0.55905511811023623"
+  }, {
+    "kabupaten_tinggal": "MUARA ENIM",
+    "total_dm_tipe_i": "311",
+    "total_dm_tipe_ii": "565",
+    "diff_percentage": "-0.28995433789954339"
+  }, {
+    "kabupaten_tinggal": "KOTA TASIKMALAYA",
+    "total_dm_tipe_i": "99",
+    "total_dm_tipe_ii": "995",
+    "diff_percentage": "-0.81901279707495434"
+  }, {
+    "kabupaten_tinggal": "GUNUNG KIDUL",
+    "total_dm_tipe_i": "651",
+    "total_dm_tipe_ii": "2706",
+    "diff_percentage": "-0.612153708668454"
+  }, {
+    "kabupaten_tinggal": "LAHAT",
+    "total_dm_tipe_i": "188",
+    "total_dm_tipe_ii": "422",
+    "diff_percentage": "-0.38360655737704918"
+  }, {
+    "kabupaten_tinggal": "BANGKA SELATAN",
+    "total_dm_tipe_i": "102",
+    "total_dm_tipe_ii": "356",
+    "diff_percentage": "-0.55458515283842791"
+  }, {
+    "kabupaten_tinggal": "CIREBON",
+    "total_dm_tipe_i": "217",
+    "total_dm_tipe_ii": "2599",
+    "diff_percentage": "-0.84588068181818177"
+  }, {
+    "kabupaten_tinggal": "PADANG PARIAMAN",
+    "total_dm_tipe_i": "88",
+    "total_dm_tipe_ii": "1093",
+    "diff_percentage": "-0.8509737510584251"
+  }, {
+    "kabupaten_tinggal": "TANGERANG",
+    "total_dm_tipe_i": "791",
+    "total_dm_tipe_ii": "2895",
+    "diff_percentage": "-0.57080846446011935"
+  }, {
+    "kabupaten_tinggal": "KOTA MADIUN",
+    "total_dm_tipe_i": "479",
+    "total_dm_tipe_ii": "2719",
+    "diff_percentage": "-0.70043777360850534"
+  }, {
+    "kabupaten_tinggal": "KOTA PEKALONGAN",
+    "total_dm_tipe_i": "31",
+    "total_dm_tipe_ii": "1939",
+    "diff_percentage": "-0.96852791878172584"
+  }, {
+    "kabupaten_tinggal": "KOTA CILEGON",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "1177",
+    "diff_percentage": "-0.94224422442244227"
+  }, {
+    "kabupaten_tinggal": "BANGKA",
+    "total_dm_tipe_i": "380",
+    "total_dm_tipe_ii": "1088",
+    "diff_percentage": "-0.48228882833787468"
+  }, {
+    "kabupaten_tinggal": "LANDAK",
+    "total_dm_tipe_i": "88",
+    "total_dm_tipe_ii": "332",
+    "diff_percentage": "-0.580952380952381"
+  }, {
+    "kabupaten_tinggal": "SERANG",
+    "total_dm_tipe_i": "153",
+    "total_dm_tipe_ii": "1062",
+    "diff_percentage": "-0.74814814814814812"
+  }, {
+    "kabupaten_tinggal": "TANGGAMUS",
+    "total_dm_tipe_i": "82",
+    "total_dm_tipe_ii": "587",
+    "diff_percentage": "-0.75485799701046341"
+  }, {
+    "kabupaten_tinggal": "KOTA SABANG",
+    "total_dm_tipe_i": "508",
+    "total_dm_tipe_ii": "357",
+    "diff_percentage": "0.1745664739884393"
+  }, {
+    "kabupaten_tinggal": "KOTA LUBUKLINGGAU",
+    "total_dm_tipe_i": "241",
+    "total_dm_tipe_ii": "461",
+    "diff_percentage": "-0.31339031339031337"
+  }, {
+    "kabupaten_tinggal": "KEPAHIANG",
+    "total_dm_tipe_i": "107",
+    "total_dm_tipe_ii": "260",
+    "diff_percentage": "-0.41689373297002724"
+  }, {
+    "kabupaten_tinggal": "LAMPUNG TENGAH",
+    "total_dm_tipe_i": "173",
+    "total_dm_tipe_ii": "983",
+    "diff_percentage": "-0.70069204152249132"
+  }, {
+    "kabupaten_tinggal": "SIMALUNGUN",
+    "total_dm_tipe_i": "121",
+    "total_dm_tipe_ii": "908",
+    "diff_percentage": "-0.76482021379980558"
+  }, {
+    "kabupaten_tinggal": "BENGKALIS",
+    "total_dm_tipe_i": "16",
+    "total_dm_tipe_ii": "1094",
+    "diff_percentage": "-0.97117117117117113"
+  }, {
+    "kabupaten_tinggal": "ROKAN HULU",
+    "total_dm_tipe_i": "44",
+    "total_dm_tipe_ii": "564",
+    "diff_percentage": "-0.85526315789473684"
+  }, {
+    "kabupaten_tinggal": "BOJONEGORO",
+    "total_dm_tipe_i": "281",
+    "total_dm_tipe_ii": "1925",
+    "diff_percentage": "-0.74524025385312787"
+  }, {
+    "kabupaten_tinggal": "OGAN ILIR",
+    "total_dm_tipe_i": "151",
+    "total_dm_tipe_ii": "349",
+    "diff_percentage": "-0.396"
+  }, {
+    "kabupaten_tinggal": "CILACAP",
+    "total_dm_tipe_i": "277",
+    "total_dm_tipe_ii": "3052",
+    "diff_percentage": "-0.83358365875638329"
+  }, {
+    "kabupaten_tinggal": "OGAN KOMERING ILIR",
+    "total_dm_tipe_i": "112",
+    "total_dm_tipe_ii": "187",
+    "diff_percentage": "-0.25083612040133779"
+  }, {
+    "kabupaten_tinggal": "AGAM",
+    "total_dm_tipe_i": "51",
+    "total_dm_tipe_ii": "923",
+    "diff_percentage": "-0.89527720739219707"
+  }, {
+    "kabupaten_tinggal": "JEMBER",
+    "total_dm_tipe_i": "529",
+    "total_dm_tipe_ii": "2257",
+    "diff_percentage": "-0.6202440775305097"
+  }, {
+    "kabupaten_tinggal": "GROBOGAN",
+    "total_dm_tipe_i": "152",
+    "total_dm_tipe_ii": "3825",
+    "diff_percentage": "-0.92356047271812924"
+  }, {
+    "kabupaten_tinggal": "LIMA PULUH KOTA",
+    "total_dm_tipe_i": "48",
+    "total_dm_tipe_ii": "604",
+    "diff_percentage": "-0.852760736196319"
+  }, {
+    "kabupaten_tinggal": "KOTA SOLOK",
+    "total_dm_tipe_i": "32",
+    "total_dm_tipe_ii": "619",
+    "diff_percentage": "-0.901689708141321"
+  }, {
+    "kabupaten_tinggal": "KOTA MAGELANG",
+    "total_dm_tipe_i": "101",
+    "total_dm_tipe_ii": "2086",
+    "diff_percentage": "-0.9076360310928212"
+  }, {
+    "kabupaten_tinggal": "KOTA PANGKAL PINANG",
+    "total_dm_tipe_i": "178",
+    "total_dm_tipe_ii": "1361",
+    "diff_percentage": "-0.76868096166341782"
+  }, {
+    "kabupaten_tinggal": "TAPANULI TENGAH",
+    "total_dm_tipe_i": "185",
+    "total_dm_tipe_ii": "713",
+    "diff_percentage": "-0.58797327394209353"
+  }, {
+    "kabupaten_tinggal": "PEMALANG",
+    "total_dm_tipe_i": "122",
+    "total_dm_tipe_ii": "2058",
+    "diff_percentage": "-0.88807339449541289"
+  }, {
+    "kabupaten_tinggal": "BLORA",
+    "total_dm_tipe_i": "86",
+    "total_dm_tipe_ii": "2205",
+    "diff_percentage": "-0.924923614142296"
+  }, {
+    "kabupaten_tinggal": "SINTANG",
+    "total_dm_tipe_i": "132",
+    "total_dm_tipe_ii": "465",
+    "diff_percentage": "-0.55778894472361806"
+  }, {
+    "kabupaten_tinggal": "SUKABUMI",
+    "total_dm_tipe_i": "188",
+    "total_dm_tipe_ii": "902",
+    "diff_percentage": "-0.655045871559633"
+  }, {
+    "kabupaten_tinggal": "MANDAILING NATAL",
+    "total_dm_tipe_i": "110",
+    "total_dm_tipe_ii": "209",
+    "diff_percentage": "-0.31034482758620691"
+  }, {
+    "kabupaten_tinggal": "PURWOREJO",
+    "total_dm_tipe_i": "310",
+    "total_dm_tipe_ii": "2872",
+    "diff_percentage": "-0.80515399120050279"
+  }, {
+    "kabupaten_tinggal": "JEPARA",
+    "total_dm_tipe_i": "346",
+    "total_dm_tipe_ii": "4098",
+    "diff_percentage": "-0.84428442844284424"
+  }, {
+    "kabupaten_tinggal": "SUBANG",
+    "total_dm_tipe_i": "196",
+    "total_dm_tipe_ii": "990",
+    "diff_percentage": "-0.6694772344013491"
+  }, {
+    "kabupaten_tinggal": "OGAN KOMERING ULU",
+    "total_dm_tipe_i": "45",
+    "total_dm_tipe_ii": "391",
+    "diff_percentage": "-0.79357798165137616"
+  }, {
+    "kabupaten_tinggal": "KOTA SURABAYA",
+    "total_dm_tipe_i": "4841",
+    "total_dm_tipe_ii": "21015",
+    "diff_percentage": "-0.62554146039603964"
+  }, {
+    "kabupaten_tinggal": "MUARO JAMBI",
+    "total_dm_tipe_i": "157",
+    "total_dm_tipe_ii": "507",
+    "diff_percentage": "-0.52710843373493976"
+  }, {
+    "kabupaten_tinggal": "KOTA LHOKSEUMAWE",
+    "total_dm_tipe_i": "99",
+    "total_dm_tipe_ii": "681",
+    "diff_percentage": "-0.74615384615384617"
+  }, {
+    "kabupaten_tinggal": "LANGKAT",
+    "total_dm_tipe_i": "71",
+    "total_dm_tipe_ii": "690",
+    "diff_percentage": "-0.81340341655716164"
+  }, {
+    "kabupaten_tinggal": "BOYOLALI",
+    "total_dm_tipe_i": "655",
+    "total_dm_tipe_ii": "4583",
+    "diff_percentage": "-0.74990454371897675"
+  }, {
+    "kabupaten_tinggal": "KARANGANYAR",
+    "total_dm_tipe_i": "492",
+    "total_dm_tipe_ii": "4023",
+    "diff_percentage": "-0.7820598006644518"
+  }, {
+    "kabupaten_tinggal": "MOJOKERTO",
+    "total_dm_tipe_i": "751",
+    "total_dm_tipe_ii": "3499",
+    "diff_percentage": "-0.64658823529411769"
+  }, {
+    "kabupaten_tinggal": "KOTA KEDIRI",
+    "total_dm_tipe_i": "465",
+    "total_dm_tipe_ii": "1201",
+    "diff_percentage": "-0.44177671068427371"
+  }, {
+    "kabupaten_tinggal": "PESISIR SELATAN",
+    "total_dm_tipe_i": "23",
+    "total_dm_tipe_ii": "795",
+    "diff_percentage": "-0.94376528117359415"
+  }, {
+    "kabupaten_tinggal": "LAMPUNG TIMUR",
+    "total_dm_tipe_i": "338",
+    "total_dm_tipe_ii": "764",
+    "diff_percentage": "-0.38656987295825773"
+  }, {
+    "kabupaten_tinggal": "KOTA PAYAKUMBUH",
+    "total_dm_tipe_i": "50",
+    "total_dm_tipe_ii": "740",
+    "diff_percentage": "-0.87341772151898733"
+  }, {
+    "kabupaten_tinggal": "KOTA PAREPARE",
+    "total_dm_tipe_i": "151",
+    "total_dm_tipe_ii": "365",
+    "diff_percentage": "-0.41472868217054265"
+  }, {
+    "kabupaten_tinggal": "KOTA BANDA ACEH",
+    "total_dm_tipe_i": "997",
+    "total_dm_tipe_ii": "1801",
+    "diff_percentage": "-0.28734810578984987"
+  }, {
+    "kabupaten_tinggal": "REJANG LEBONG",
+    "total_dm_tipe_i": "99",
+    "total_dm_tipe_ii": "253",
+    "diff_percentage": "-0.4375"
+  }, {
+    "kabupaten_tinggal": "TANJUNG JABUNG BARAT",
+    "total_dm_tipe_i": "112",
+    "total_dm_tipe_ii": "432",
+    "diff_percentage": "-0.58823529411764708"
+  }, {
+    "kabupaten_tinggal": "KOTA BENGKULU",
+    "total_dm_tipe_i": "70",
+    "total_dm_tipe_ii": "1197",
+    "diff_percentage": "-0.88950276243093918"
+  }, {
+    "kabupaten_tinggal": "BENGKULU UTARA",
+    "total_dm_tipe_i": "164",
+    "total_dm_tipe_ii": "419",
+    "diff_percentage": "-0.43739279588336194"
+  }, {
+    "kabupaten_tinggal": "KOTA BOGOR",
+    "total_dm_tipe_i": "218",
+    "total_dm_tipe_ii": "3175",
+    "diff_percentage": "-0.87150014736221637"
+  }, {
+    "kabupaten_tinggal": "KOTA SUNGAI PENUH",
+    "total_dm_tipe_i": "69",
+    "total_dm_tipe_ii": "160",
+    "diff_percentage": "-0.39737991266375544"
+  }, {
+    "kabupaten_tinggal": "ACEH TENGGARA",
+    "total_dm_tipe_i": "194",
+    "total_dm_tipe_ii": "256",
+    "diff_percentage": "-0.13777777777777778"
+  }, {
+    "kabupaten_tinggal": "KARAWANG",
+    "total_dm_tipe_i": "236",
+    "total_dm_tipe_ii": "2130",
+    "diff_percentage": "-0.80050718512256969"
+  }, {
+    "kabupaten_tinggal": "KOTA TEGAL",
+    "total_dm_tipe_i": "89",
+    "total_dm_tipe_ii": "1028",
+    "diff_percentage": "-0.84064458370635631"
+  }, {
+    "kabupaten_tinggal": "KOTA PARIAMAN",
+    "total_dm_tipe_i": "28",
+    "total_dm_tipe_ii": "782",
+    "diff_percentage": "-0.93086419753086425"
+  }, {
+    "kabupaten_tinggal": "PURBALINGGA",
+    "total_dm_tipe_i": "109",
+    "total_dm_tipe_ii": "1624",
+    "diff_percentage": "-0.87420657818811309"
+  }, {
+    "kabupaten_tinggal": "KAPUAS HULU",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "212",
+    "diff_percentage": "-0.7165991902834008"
+  }, {
+    "kabupaten_tinggal": "PASER",
+    "total_dm_tipe_i": "182",
+    "total_dm_tipe_ii": "338",
+    "diff_percentage": "-0.3"
+  }, {
+    "kabupaten_tinggal": "KOTA BARU",
+    "total_dm_tipe_i": "381",
+    "total_dm_tipe_ii": "361",
+    "diff_percentage": "0.026954177897574125"
+  }, {
+    "kabupaten_tinggal": "KUTAI BARAT",
+    "total_dm_tipe_i": "41",
+    "total_dm_tipe_ii": "349",
+    "diff_percentage": "-0.78974358974358971"
+  }, {
+    "kabupaten_tinggal": "KOTA MALANG",
+    "total_dm_tipe_i": "640",
+    "total_dm_tipe_ii": "6122",
+    "diff_percentage": "-0.81070689145223307"
+  }, {
+    "kabupaten_tinggal": "MUSI RAWAS",
+    "total_dm_tipe_i": "98",
+    "total_dm_tipe_ii": "384",
+    "diff_percentage": "-0.59336099585062241"
+  }, {
+    "kabupaten_tinggal": "KOTA TANJUNG BALAI",
+    "total_dm_tipe_i": "213",
+    "total_dm_tipe_ii": "317",
+    "diff_percentage": "-0.19622641509433963"
+  }, {
+    "kabupaten_tinggal": "KUTAI KARTANEGARA",
+    "total_dm_tipe_i": "250",
+    "total_dm_tipe_ii": "841",
+    "diff_percentage": "-0.541704857928506"
+  }, {
+    "kabupaten_tinggal": "KUTAI TIMUR",
+    "total_dm_tipe_i": "17",
+    "total_dm_tipe_ii": "536",
+    "diff_percentage": "-0.93851717902350817"
+  }, {
+    "kabupaten_tinggal": "KOTA BONTANG",
+    "total_dm_tipe_i": "311",
+    "total_dm_tipe_ii": "1217",
+    "diff_percentage": "-0.59293193717277481"
+  }, {
+    "kabupaten_tinggal": "KOTA TARAKAN",
+    "total_dm_tipe_i": "79",
+    "total_dm_tipe_ii": "997",
+    "diff_percentage": "-0.85315985130111527"
+  }, {
+    "kabupaten_tinggal": "PENAJAM PASER UTARA",
+    "total_dm_tipe_i": "162",
+    "total_dm_tipe_ii": "240",
+    "diff_percentage": "-0.19402985074626866"
+  }, {
+    "kabupaten_tinggal": "KOTA GORONTALO",
+    "total_dm_tipe_i": "179",
+    "total_dm_tipe_ii": "969",
+    "diff_percentage": "-0.68815331010452963"
+  }, {
+    "kabupaten_tinggal": "MINAHASA TENGGARA",
+    "total_dm_tipe_i": "77",
+    "total_dm_tipe_ii": "166",
+    "diff_percentage": "-0.36625514403292181"
+  }, {
+    "kabupaten_tinggal": "KOTA BITUNG",
+    "total_dm_tipe_i": "311",
+    "total_dm_tipe_ii": "649",
+    "diff_percentage": "-0.35208333333333336"
+  }, {
+    "kabupaten_tinggal": "BOLAANG MONGONDOW",
+    "total_dm_tipe_i": "80",
+    "total_dm_tipe_ii": "416",
+    "diff_percentage": "-0.67741935483870963"
+  }, {
+    "kabupaten_tinggal": "KOTA MANADO",
+    "total_dm_tipe_i": "536",
+    "total_dm_tipe_ii": "2575",
+    "diff_percentage": "-0.65541626486660243"
+  }, {
+    "kabupaten_tinggal": "SIAU TAGULANDANG BIAR",
+    "total_dm_tipe_i": "30",
+    "total_dm_tipe_ii": "130",
+    "diff_percentage": "-0.625"
+  }, {
+    "kabupaten_tinggal": "MINAHASA",
+    "total_dm_tipe_i": "297",
+    "total_dm_tipe_ii": "1186",
+    "diff_percentage": "-0.59946055293324341"
+  }, {
+    "kabupaten_tinggal": "BOLAANG MONGONDOW TIMUR",
+    "total_dm_tipe_i": "66",
+    "total_dm_tipe_ii": "289",
+    "diff_percentage": "-0.62816901408450709"
+  }, {
+    "kabupaten_tinggal": "MINAHASA UTARA",
+    "total_dm_tipe_i": "151",
+    "total_dm_tipe_ii": "834",
+    "diff_percentage": "-0.69340101522842634"
+  }, {
+    "kabupaten_tinggal": "MINAHASA SELATAN",
+    "total_dm_tipe_i": "269",
+    "total_dm_tipe_ii": "551",
+    "diff_percentage": "-0.34390243902439022"
+  }, {
+    "kabupaten_tinggal": "BOLAANG MONGONDOW UTARA",
+    "total_dm_tipe_i": "14",
+    "total_dm_tipe_ii": "155",
+    "diff_percentage": "-0.834319526627219"
+  }, {
+    "kabupaten_tinggal": "BANGGAI KEPULAUAN",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "187",
+    "diff_percentage": "-0.64757709251101325"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN TALAUD",
+    "total_dm_tipe_i": "23",
+    "total_dm_tipe_ii": "107",
+    "diff_percentage": "-0.64615384615384619"
+  }, {
+    "kabupaten_tinggal": "MANOKWARI",
+    "total_dm_tipe_i": "86",
+    "total_dm_tipe_ii": "252",
+    "diff_percentage": "-0.4911242603550296"
+  }, {
+    "kabupaten_tinggal": "BOALEMO",
+    "total_dm_tipe_i": "46",
+    "total_dm_tipe_ii": "459",
+    "diff_percentage": "-0.81782178217821777"
+  }, {
+    "kabupaten_tinggal": "HALMAHERA BARAT",
+    "total_dm_tipe_i": "24",
+    "total_dm_tipe_ii": "123",
+    "diff_percentage": "-0.673469387755102"
+  }, {
+    "kabupaten_tinggal": "POSO",
+    "total_dm_tipe_i": "180",
+    "total_dm_tipe_ii": "547",
+    "diff_percentage": "-0.50481430536451166"
+  }, {
+    "kabupaten_tinggal": "KOTA KOTAMOBAGU",
+    "total_dm_tipe_i": "165",
+    "total_dm_tipe_ii": "441",
+    "diff_percentage": "-0.45544554455445546"
+  }, {
+    "kabupaten_tinggal": "KOTA TERNATE",
+    "total_dm_tipe_i": "175",
+    "total_dm_tipe_ii": "482",
+    "diff_percentage": "-0.46727549467275492"
+  }, {
+    "kabupaten_tinggal": "BANGGAI",
+    "total_dm_tipe_i": "330",
+    "total_dm_tipe_ii": "841",
+    "diff_percentage": "-0.43637916310845432"
+  }, {
+    "kabupaten_tinggal": "HALMAHERA UTARA",
+    "total_dm_tipe_i": "11",
+    "total_dm_tipe_ii": "334",
+    "diff_percentage": "-0.936231884057971"
+  }, {
+    "kabupaten_tinggal": "BOLAANG MONGONDOW SELATAN",
+    "total_dm_tipe_i": "13",
+    "total_dm_tipe_ii": "178",
+    "diff_percentage": "-0.86387434554973819"
+  }, {
+    "kabupaten_tinggal": "KOTA TOMOHON",
+    "total_dm_tipe_i": "110",
+    "total_dm_tipe_ii": "666",
+    "diff_percentage": "-0.71649484536082475"
+  }, {
+    "kabupaten_tinggal": "MIMIKA",
+    "total_dm_tipe_i": "78",
+    "total_dm_tipe_ii": "219",
+    "diff_percentage": "-0.47474747474747475"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN SANGIHE",
+    "total_dm_tipe_i": "105",
+    "total_dm_tipe_ii": "179",
+    "diff_percentage": "-0.26056338028169013"
+  }, {
+    "kabupaten_tinggal": "BONE BOLANGO",
+    "total_dm_tipe_i": "91",
+    "total_dm_tipe_ii": "705",
+    "diff_percentage": "-0.77135678391959794"
+  }, {
+    "kabupaten_tinggal": "POHUWATO",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "246",
+    "diff_percentage": "-0.72027972027972031"
+  }, {
+    "kabupaten_tinggal": "HALMAHERA TENGAH",
+    "total_dm_tipe_i": "3",
+    "total_dm_tipe_ii": "57",
+    "diff_percentage": "-0.9"
+  }, {
+    "kabupaten_tinggal": "KOTA MAKASSAR",
+    "total_dm_tipe_i": "815",
+    "total_dm_tipe_ii": "3642",
+    "diff_percentage": "-0.63428315010096481"
+  }, {
+    "kabupaten_tinggal": "GORONTALO",
+    "total_dm_tipe_i": "89",
+    "total_dm_tipe_ii": "769",
+    "diff_percentage": "-0.79254079254079257"
+  }, {
+    "kabupaten_tinggal": "MOROWALI UTARA",
+    "total_dm_tipe_i": "108",
+    "total_dm_tipe_ii": "193",
+    "diff_percentage": "-0.28239202657807311"
+  }, {
+    "kabupaten_tinggal": "BARRU",
+    "total_dm_tipe_i": "280",
+    "total_dm_tipe_ii": "330",
+    "diff_percentage": "-0.081967213114754092"
+  }, {
+    "kabupaten_tinggal": "NGANJUK",
+    "total_dm_tipe_i": "247",
+    "total_dm_tipe_ii": "1285",
+    "diff_percentage": "-0.67754569190600522"
+  }, {
+    "kabupaten_tinggal": "LUWU",
+    "total_dm_tipe_i": "84",
+    "total_dm_tipe_ii": "300",
+    "diff_percentage": "-0.5625"
+  }, {
+    "kabupaten_tinggal": "TANAH LAUT",
+    "total_dm_tipe_i": "217",
+    "total_dm_tipe_ii": "487",
+    "diff_percentage": "-0.38352272727272729"
+  }, {
+    "kabupaten_tinggal": "KOTA SORONG",
+    "total_dm_tipe_i": "59",
+    "total_dm_tipe_ii": "519",
+    "diff_percentage": "-0.79584775086505188"
+  }, {
+    "kabupaten_tinggal": "HALMAHERA TIMUR",
+    "total_dm_tipe_i": "6",
+    "total_dm_tipe_ii": "36",
+    "diff_percentage": "-0.7142857142857143"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN YAPEN",
+    "total_dm_tipe_i": "7",
+    "total_dm_tipe_ii": "35",
+    "diff_percentage": "-0.66666666666666663"
+  }, {
+    "kabupaten_tinggal": "BALANGAN",
+    "total_dm_tipe_i": "10",
+    "total_dm_tipe_ii": "463",
+    "diff_percentage": "-0.95771670190274838"
+  }, {
+    "kabupaten_tinggal": "BERAU",
+    "total_dm_tipe_i": "61",
+    "total_dm_tipe_ii": "167",
+    "diff_percentage": "-0.46491228070175439"
+  }, {
+    "kabupaten_tinggal": "KOTA BALIKPAPAN",
+    "total_dm_tipe_i": "764",
+    "total_dm_tipe_ii": "3586",
+    "diff_percentage": "-0.64873563218390806"
+  }, {
+    "kabupaten_tinggal": "NABIRE",
+    "total_dm_tipe_i": "38",
+    "total_dm_tipe_ii": "157",
+    "diff_percentage": "-0.61025641025641031"
+  }, {
+    "kabupaten_tinggal": "BULUNGAN",
+    "total_dm_tipe_i": "42",
+    "total_dm_tipe_ii": "198",
+    "diff_percentage": "-0.65"
+  }, {
+    "kabupaten_tinggal": "GORONTALO UTARA",
+    "total_dm_tipe_i": "7",
+    "total_dm_tipe_ii": "313",
+    "diff_percentage": "-0.95625"
+  }, {
+    "kabupaten_tinggal": "LAMPUNG BARAT",
+    "total_dm_tipe_i": "33",
+    "total_dm_tipe_ii": "366",
+    "diff_percentage": "-0.83458646616541354"
+  }, {
+    "kabupaten_tinggal": "PESISIR BARAT",
+    "total_dm_tipe_i": "39",
+    "total_dm_tipe_ii": "194",
+    "diff_percentage": "-0.66523605150214593"
+  }, {
+    "kabupaten_tinggal": "TELUK BINTUNI",
+    "total_dm_tipe_i": "2",
+    "total_dm_tipe_ii": "69",
+    "diff_percentage": "-0.94366197183098588"
+  }, {
+    "kabupaten_tinggal": "KOTA TUAL",
+    "total_dm_tipe_i": "38",
+    "total_dm_tipe_ii": "111",
+    "diff_percentage": "-0.48993288590604028"
+  }, {
+    "kabupaten_tinggal": "PRINGSEWU",
+    "total_dm_tipe_i": "100",
+    "total_dm_tipe_ii": "661",
+    "diff_percentage": "-0.73718791064388967"
+  }, {
+    "kabupaten_tinggal": "LAMPUNG SELATAN",
+    "total_dm_tipe_i": "85",
+    "total_dm_tipe_ii": "870",
+    "diff_percentage": "-0.82198952879581155"
+  }, {
+    "kabupaten_tinggal": "WAY KANAN",
+    "total_dm_tipe_i": "37",
+    "total_dm_tipe_ii": "214",
+    "diff_percentage": "-0.70517928286852594"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN SULA",
+    "total_dm_tipe_i": "36",
+    "total_dm_tipe_ii": "25",
+    "diff_percentage": "0.18032786885245902"
+  }, {
+    "kabupaten_tinggal": "HALMAHERA SELATAN",
+    "total_dm_tipe_i": "36",
+    "total_dm_tipe_ii": "174",
+    "diff_percentage": "-0.65714285714285714"
+  }, {
+    "kabupaten_tinggal": "TULANGBAWANG",
+    "total_dm_tipe_i": "41",
+    "total_dm_tipe_ii": "488",
+    "diff_percentage": "-0.84499054820415875"
+  }, {
+    "kabupaten_tinggal": "TULANG BAWANG BARAT",
+    "total_dm_tipe_i": "64",
+    "total_dm_tipe_ii": "384",
+    "diff_percentage": "-0.7142857142857143"
+  }, {
+    "kabupaten_tinggal": "PULAU MOROTAI",
+    "total_dm_tipe_i": "45",
+    "total_dm_tipe_ii": "72",
+    "diff_percentage": "-0.23076923076923078"
+  }, {
+    "kabupaten_tinggal": "MESUJI",
+    "total_dm_tipe_i": "38",
+    "total_dm_tipe_ii": "165",
+    "diff_percentage": "-0.625615763546798"
+  }, {
+    "kabupaten_tinggal": "PANDEGLANG",
+    "total_dm_tipe_i": "83",
+    "total_dm_tipe_ii": "432",
+    "diff_percentage": "-0.67766990291262141"
+  }, {
+    "kabupaten_tinggal": "INDRAMAYU",
+    "total_dm_tipe_i": "91",
+    "total_dm_tipe_ii": "622",
+    "diff_percentage": "-0.74474053295932674"
+  }, {
+    "kabupaten_tinggal": "MALANG",
+    "total_dm_tipe_i": "1326",
+    "total_dm_tipe_ii": "6642",
+    "diff_percentage": "-0.66716867469879515"
+  }, {
+    "kabupaten_tinggal": "HUMBANG HASUNDUTAN",
+    "total_dm_tipe_i": "46",
+    "total_dm_tipe_ii": "364",
+    "diff_percentage": "-0.775609756097561"
+  }, {
+    "kabupaten_tinggal": "MAGELANG",
+    "total_dm_tipe_i": "201",
+    "total_dm_tipe_ii": "4261",
+    "diff_percentage": "-0.90990587180636484"
+  }, {
+    "kabupaten_tinggal": "KOTA CIMAHI",
+    "total_dm_tipe_i": "141",
+    "total_dm_tipe_ii": "1581",
+    "diff_percentage": "-0.83623693379790942"
+  }, {
+    "kabupaten_tinggal": "KOTA SUKABUMI",
+    "total_dm_tipe_i": "134",
+    "total_dm_tipe_ii": "212",
+    "diff_percentage": "-0.22543352601156069"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN SERIBU",
+    "total_dm_tipe_i": "20",
+    "total_dm_tipe_ii": "290",
+    "diff_percentage": "-0.87096774193548387"
+  }, {
+    "kabupaten_tinggal": "PACITAN",
+    "total_dm_tipe_i": "151",
+    "total_dm_tipe_ii": "749",
+    "diff_percentage": "-0.66444444444444439"
+  }, {
+    "kabupaten_tinggal": "KARO",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "567",
+    "diff_percentage": "-0.88372093023255816"
+  }, {
+    "kabupaten_tinggal": "SIAK",
+    "total_dm_tipe_i": "122",
+    "total_dm_tipe_ii": "635",
+    "diff_percentage": "-0.67767503302509913"
+  }, {
+    "kabupaten_tinggal": "LAIN-LAIN/LUAR NEGERI",
+    "total_dm_tipe_i": "41",
+    "total_dm_tipe_ii": "177",
+    "diff_percentage": "-0.62385321100917435"
+  }, {
+    "kabupaten_tinggal": "TAPANULI UTARA",
+    "total_dm_tipe_i": "54",
+    "total_dm_tipe_ii": "389",
+    "diff_percentage": "-0.75620767494356655"
+  }, {
+    "kabupaten_tinggal": "SITUBONDO",
+    "total_dm_tipe_i": "115",
+    "total_dm_tipe_ii": "498",
+    "diff_percentage": "-0.6247960848287113"
+  }, {
+    "kabupaten_tinggal": "PINRANG",
+    "total_dm_tipe_i": "195",
+    "total_dm_tipe_ii": "270",
+    "diff_percentage": "-0.16129032258064516"
+  }, {
+    "kabupaten_tinggal": "KOTA BATAM",
+    "total_dm_tipe_i": "262",
+    "total_dm_tipe_ii": "2639",
+    "diff_percentage": "-0.81937263012754225"
+  }, {
+    "kabupaten_tinggal": "SERUYAN",
+    "total_dm_tipe_i": "47",
+    "total_dm_tipe_ii": "327",
+    "diff_percentage": "-0.74866310160427807"
+  }, {
+    "kabupaten_tinggal": "NIAS BARAT",
+    "total_dm_tipe_i": "90",
+    "total_dm_tipe_ii": "43",
+    "diff_percentage": "0.35338345864661652"
+  }, {
+    "kabupaten_tinggal": "SIJUNJUNG",
+    "total_dm_tipe_i": "42",
+    "total_dm_tipe_ii": "479",
+    "diff_percentage": "-0.8387715930902111"
+  }, {
+    "kabupaten_tinggal": "DHARMASRAYA",
+    "total_dm_tipe_i": "178",
+    "total_dm_tipe_ii": "394",
+    "diff_percentage": "-0.3776223776223776"
+  }, {
+    "kabupaten_tinggal": "TANAH DATAR",
+    "total_dm_tipe_i": "160",
+    "total_dm_tipe_ii": "869",
+    "diff_percentage": "-0.68901846452866866"
+  }, {
+    "kabupaten_tinggal": "MERANGIN",
+    "total_dm_tipe_i": "87",
+    "total_dm_tipe_ii": "260",
+    "diff_percentage": "-0.49855907780979825"
+  }, {
+    "kabupaten_tinggal": "KUBU RAYA",
+    "total_dm_tipe_i": "103",
+    "total_dm_tipe_ii": "459",
+    "diff_percentage": "-0.63345195729537362"
+  }, {
+    "kabupaten_tinggal": "MELAWI",
+    "total_dm_tipe_i": "77",
+    "total_dm_tipe_ii": "231",
+    "diff_percentage": "-0.5"
+  }, {
+    "kabupaten_tinggal": "SANGGAU",
+    "total_dm_tipe_i": "54",
+    "total_dm_tipe_ii": "304",
+    "diff_percentage": "-0.6983240223463687"
+  }, {
+    "kabupaten_tinggal": "KETAPANG",
+    "total_dm_tipe_i": "57",
+    "total_dm_tipe_ii": "517",
+    "diff_percentage": "-0.80139372822299648"
+  }, {
+    "kabupaten_tinggal": "KAYONG UTARA",
+    "total_dm_tipe_i": "111",
+    "total_dm_tipe_ii": "247",
+    "diff_percentage": "-0.37988826815642457"
+  }, {
+    "kabupaten_tinggal": "BENGKAYANG",
+    "total_dm_tipe_i": "64",
+    "total_dm_tipe_ii": "490",
+    "diff_percentage": "-0.76895306859205781"
+  }, {
+    "kabupaten_tinggal": "NATUNA",
+    "total_dm_tipe_i": "30",
+    "total_dm_tipe_ii": "195",
+    "diff_percentage": "-0.73333333333333328"
+  }, {
+    "kabupaten_tinggal": "KOTAWARINGIN TIMUR",
+    "total_dm_tipe_i": "81",
+    "total_dm_tipe_ii": "481",
+    "diff_percentage": "-0.71174377224199292"
+  }, {
+    "kabupaten_tinggal": "PASAMAN",
+    "total_dm_tipe_i": "22",
+    "total_dm_tipe_ii": "423",
+    "diff_percentage": "-0.90112359550561794"
+  }, {
+    "kabupaten_tinggal": "SOLOK SELATAN",
+    "total_dm_tipe_i": "77",
+    "total_dm_tipe_ii": "340",
+    "diff_percentage": "-0.6306954436450839"
+  }, {
+    "kabupaten_tinggal": "KERINCI",
+    "total_dm_tipe_i": "94",
+    "total_dm_tipe_ii": "150",
+    "diff_percentage": "-0.22950819672131148"
+  }, {
+    "kabupaten_tinggal": "PASAMAN BARAT",
+    "total_dm_tipe_i": "14",
+    "total_dm_tipe_ii": "435",
+    "diff_percentage": "-0.9376391982182628"
+  }, {
+    "kabupaten_tinggal": "NIAS SELATAN",
+    "total_dm_tipe_i": "148",
+    "total_dm_tipe_ii": "199",
+    "diff_percentage": "-0.14697406340057637"
+  }, {
+    "kabupaten_tinggal": "BANGGAI LAUT",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "41",
+    "diff_percentage": "-1.0"
+  }, {
+    "kabupaten_tinggal": "BUOL",
+    "total_dm_tipe_i": "143",
+    "total_dm_tipe_ii": "195",
+    "diff_percentage": "-0.15384615384615385"
+  }, {
+    "kabupaten_tinggal": "KOTA PALU",
+    "total_dm_tipe_i": "451",
+    "total_dm_tipe_ii": "1396",
+    "diff_percentage": "-0.5116404981050352"
+  }, {
+    "kabupaten_tinggal": "SAROLANGUN",
+    "total_dm_tipe_i": "52",
+    "total_dm_tipe_ii": "361",
+    "diff_percentage": "-0.74818401937046008"
+  }, {
+    "kabupaten_tinggal": "TANJUNG JABUNG TIMUR",
+    "total_dm_tipe_i": "80",
+    "total_dm_tipe_ii": "158",
+    "diff_percentage": "-0.32773109243697479"
+  }, {
+    "kabupaten_tinggal": "BUNGO",
+    "total_dm_tipe_i": "43",
+    "total_dm_tipe_ii": "396",
+    "diff_percentage": "-0.80410022779043278"
+  }, {
+    "kabupaten_tinggal": "TEBO",
+    "total_dm_tipe_i": "105",
+    "total_dm_tipe_ii": "195",
+    "diff_percentage": "-0.3"
+  }, {
+    "kabupaten_tinggal": "MOROWALI",
+    "total_dm_tipe_i": "77",
+    "total_dm_tipe_ii": "210",
+    "diff_percentage": "-0.46341463414634149"
+  }, {
+    "kabupaten_tinggal": "TOJO UNA-UNA",
+    "total_dm_tipe_i": "45",
+    "total_dm_tipe_ii": "204",
+    "diff_percentage": "-0.63855421686746983"
+  }, {
+    "kabupaten_tinggal": "BURU",
+    "total_dm_tipe_i": "11",
+    "total_dm_tipe_ii": "142",
+    "diff_percentage": "-0.85620915032679734"
+  }, {
+    "kabupaten_tinggal": "DONGGALA",
+    "total_dm_tipe_i": "45",
+    "total_dm_tipe_ii": "229",
+    "diff_percentage": "-0.67153284671532842"
+  }, {
+    "kabupaten_tinggal": "MAMUJU UTARA",
+    "total_dm_tipe_i": "43",
+    "total_dm_tipe_ii": "155",
+    "diff_percentage": "-0.56565656565656564"
+  }, {
+    "kabupaten_tinggal": "TOLI-TOLI",
+    "total_dm_tipe_i": "126",
+    "total_dm_tipe_ii": "173",
+    "diff_percentage": "-0.15719063545150502"
+  }, {
+    "kabupaten_tinggal": "MAMUJU TENGAH",
+    "total_dm_tipe_i": "24",
+    "total_dm_tipe_ii": "217",
+    "diff_percentage": "-0.80082987551867224"
+  }, {
+    "kabupaten_tinggal": "PARIGI MOUTONG",
+    "total_dm_tipe_i": "82",
+    "total_dm_tipe_ii": "229",
+    "diff_percentage": "-0.47266881028938906"
+  }, {
+    "kabupaten_tinggal": "SIGI",
+    "total_dm_tipe_i": "60",
+    "total_dm_tipe_ii": "313",
+    "diff_percentage": "-0.67828418230563"
+  }, {
+    "kabupaten_tinggal": "TEMANGGUNG",
+    "total_dm_tipe_i": "79",
+    "total_dm_tipe_ii": "2277",
+    "diff_percentage": "-0.932937181663837"
+  }, {
+    "kabupaten_tinggal": "NGAWI",
+    "total_dm_tipe_i": "733",
+    "total_dm_tipe_ii": "1243",
+    "diff_percentage": "-0.25809716599190285"
+  }, {
+    "kabupaten_tinggal": "MADIUN",
+    "total_dm_tipe_i": "630",
+    "total_dm_tipe_ii": "2254",
+    "diff_percentage": "-0.56310679611650483"
+  }, {
+    "kabupaten_tinggal": "PONOROGO",
+    "total_dm_tipe_i": "515",
+    "total_dm_tipe_ii": "2145",
+    "diff_percentage": "-0.61278195488721809"
+  }, {
+    "kabupaten_tinggal": "MAGETAN",
+    "total_dm_tipe_i": "277",
+    "total_dm_tipe_ii": "2123",
+    "diff_percentage": "-0.76916666666666667"
+  }, {
+    "kabupaten_tinggal": "KOTA PASURUAN",
+    "total_dm_tipe_i": "272",
+    "total_dm_tipe_ii": "726",
+    "diff_percentage": "-0.45490981963927857"
+  }, {
+    "kabupaten_tinggal": "BARITO UTARA",
+    "total_dm_tipe_i": "81",
+    "total_dm_tipe_ii": "190",
+    "diff_percentage": "-0.40221402214022139"
+  }, {
+    "kabupaten_tinggal": "LAMONGAN",
+    "total_dm_tipe_i": "332",
+    "total_dm_tipe_ii": "3031",
+    "diff_percentage": "-0.80255724055902466"
+  }, {
+    "kabupaten_tinggal": "BIAK NUMFOR",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "386",
+    "diff_percentage": "-1.0"
+  }, {
+    "kabupaten_tinggal": "KEDIRI",
+    "total_dm_tipe_i": "892",
+    "total_dm_tipe_ii": "2506",
+    "diff_percentage": "-0.4749852854620365"
+  }, {
+    "kabupaten_tinggal": "KOTA BANJARMASIN",
+    "total_dm_tipe_i": "366",
+    "total_dm_tipe_ii": "2436",
+    "diff_percentage": "-0.73875802997858675"
+  }, {
+    "kabupaten_tinggal": "MALAKA",
+    "total_dm_tipe_i": "20",
+    "total_dm_tipe_ii": "76",
+    "diff_percentage": "-0.58333333333333337"
+  }, {
+    "kabupaten_tinggal": "SERDANG BEDAGAI",
+    "total_dm_tipe_i": "135",
+    "total_dm_tipe_ii": "966",
+    "diff_percentage": "-0.75476839237057225"
+  }, {
+    "kabupaten_tinggal": "KOTA JAYAPURA",
+    "total_dm_tipe_i": "101",
+    "total_dm_tipe_ii": "488",
+    "diff_percentage": "-0.65704584040747027"
+  }, {
+    "kabupaten_tinggal": "PELALAWAN",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "450",
+    "diff_percentage": "-0.83673469387755106"
+  }, {
+    "kabupaten_tinggal": "JAYAPURA",
+    "total_dm_tipe_i": "5",
+    "total_dm_tipe_ii": "312",
+    "diff_percentage": "-0.96845425867507884"
+  }, {
+    "kabupaten_tinggal": "JOMBANG",
+    "total_dm_tipe_i": "558",
+    "total_dm_tipe_ii": "3420",
+    "diff_percentage": "-0.71945701357466063"
+  }, {
+    "kabupaten_tinggal": "KOTA BLITAR",
+    "total_dm_tipe_i": "348",
+    "total_dm_tipe_ii": "491",
+    "diff_percentage": "-0.17044100119189512"
+  }, {
+    "kabupaten_tinggal": "KOTA AMBON",
+    "total_dm_tipe_i": "43",
+    "total_dm_tipe_ii": "964",
+    "diff_percentage": "-0.91459781529294937"
+  }, {
+    "kabupaten_tinggal": "PEKALONGAN",
+    "total_dm_tipe_i": "54",
+    "total_dm_tipe_ii": "1875",
+    "diff_percentage": "-0.94401244167962672"
+  }, {
+    "kabupaten_tinggal": "KOTA GUNUNGSITOLI",
+    "total_dm_tipe_i": "869",
+    "total_dm_tipe_ii": "668",
+    "diff_percentage": "0.13077423552374756"
+  }, {
+    "kabupaten_tinggal": "SIDENRENG RAPPANG",
+    "total_dm_tipe_i": "52",
+    "total_dm_tipe_ii": "435",
+    "diff_percentage": "-0.78644763860369615"
+  }, {
+    "kabupaten_tinggal": "SUKAMARA",
+    "total_dm_tipe_i": "37",
+    "total_dm_tipe_ii": "110",
+    "diff_percentage": "-0.49659863945578231"
+  }, {
+    "kabupaten_tinggal": "LAMANDAU",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "81",
+    "diff_percentage": "-0.39655172413793105"
+  }, {
+    "kabupaten_tinggal": "KONAWE",
+    "total_dm_tipe_i": "176",
+    "total_dm_tipe_ii": "209",
+    "diff_percentage": "-0.085714285714285715"
+  }, {
+    "kabupaten_tinggal": "KONAWE UTARA",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "66",
+    "diff_percentage": "-0.30693069306930693"
+  }, {
+    "kabupaten_tinggal": "BUTON UTARA",
+    "total_dm_tipe_i": "23",
+    "total_dm_tipe_ii": "185",
+    "diff_percentage": "-0.77884615384615385"
+  }, {
+    "kabupaten_tinggal": "KOTA KENDARI",
+    "total_dm_tipe_i": "288",
+    "total_dm_tipe_ii": "523",
+    "diff_percentage": "-0.28976572133168926"
+  }, {
+    "kabupaten_tinggal": "MUNA",
+    "total_dm_tipe_i": "18",
+    "total_dm_tipe_ii": "278",
+    "diff_percentage": "-0.8783783783783784"
+  }, {
+    "kabupaten_tinggal": "MUNA BARAT",
+    "total_dm_tipe_i": "76",
+    "total_dm_tipe_ii": "128",
+    "diff_percentage": "-0.25490196078431371"
+  }, {
+    "kabupaten_tinggal": "KONAWE KEPULAUAN",
+    "total_dm_tipe_i": "4",
+    "total_dm_tipe_ii": "25",
+    "diff_percentage": "-0.72413793103448276"
+  }, {
+    "kabupaten_tinggal": "KONAWE SELATAN",
+    "total_dm_tipe_i": "76",
+    "total_dm_tipe_ii": "244",
+    "diff_percentage": "-0.525"
+  }, {
+    "kabupaten_tinggal": "KOLAKA TIMUR",
+    "total_dm_tipe_i": "55",
+    "total_dm_tipe_ii": "207",
+    "diff_percentage": "-0.58015267175572516"
+  }, {
+    "kabupaten_tinggal": "BOMBANA",
+    "total_dm_tipe_i": "45",
+    "total_dm_tipe_ii": "279",
+    "diff_percentage": "-0.72222222222222221"
+  }, {
+    "kabupaten_tinggal": "Kolaka",
+    "total_dm_tipe_i": "29",
+    "total_dm_tipe_ii": "240",
+    "diff_percentage": "-0.78438661710037172"
+  }, {
+    "kabupaten_tinggal": "KOLAKA UTARA",
+    "total_dm_tipe_i": "67",
+    "total_dm_tipe_ii": "27",
+    "diff_percentage": "0.425531914893617"
+  }, {
+    "kabupaten_tinggal": "BUTON SELATAN",
+    "total_dm_tipe_i": "13",
+    "total_dm_tipe_ii": "157",
+    "diff_percentage": "-0.84705882352941175"
+  }, {
+    "kabupaten_tinggal": "WAKATOBI",
+    "total_dm_tipe_i": "15",
+    "total_dm_tipe_ii": "164",
+    "diff_percentage": "-0.83240223463687146"
+  }, {
+    "kabupaten_tinggal": "GOWA",
+    "total_dm_tipe_i": "198",
+    "total_dm_tipe_ii": "1121",
+    "diff_percentage": "-0.6997725549658832"
+  }, {
+    "kabupaten_tinggal": "KAIMANA",
+    "total_dm_tipe_i": "36",
+    "total_dm_tipe_ii": "28",
+    "diff_percentage": "0.125"
+  }, {
+    "kabupaten_tinggal": "PASURUAN",
+    "total_dm_tipe_i": "903",
+    "total_dm_tipe_ii": "1892",
+    "diff_percentage": "-0.35384615384615387"
+  }, {
+    "kabupaten_tinggal": "BUTON TENGAH",
+    "total_dm_tipe_i": "9",
+    "total_dm_tipe_ii": "146",
+    "diff_percentage": "-0.88387096774193552"
+  }, {
+    "kabupaten_tinggal": "KOTA BAUBAU",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "433",
+    "diff_percentage": "-0.83086680761099363"
+  }, {
+    "kabupaten_tinggal": "BUTON",
+    "total_dm_tipe_i": "26",
+    "total_dm_tipe_ii": "323",
+    "diff_percentage": "-0.85100286532951286"
+  }, {
+    "kabupaten_tinggal": "KOTA DENPASAR",
+    "total_dm_tipe_i": "505",
+    "total_dm_tipe_ii": "2297",
+    "diff_percentage": "-0.63954318344039973"
+  }, {
+    "kabupaten_tinggal": "BADUNG",
+    "total_dm_tipe_i": "868",
+    "total_dm_tipe_ii": "1963",
+    "diff_percentage": "-0.38678912045213704"
+  }, {
+    "kabupaten_tinggal": "KARANG ASEM",
+    "total_dm_tipe_i": "339",
+    "total_dm_tipe_ii": "1310",
+    "diff_percentage": "-0.58884172225591269"
+  }, {
+    "kabupaten_tinggal": "KLUNGKUNG",
+    "total_dm_tipe_i": "336",
+    "total_dm_tipe_ii": "1298",
+    "diff_percentage": "-0.58873929008567927"
+  }, {
+    "kabupaten_tinggal": "BULELENG",
+    "total_dm_tipe_i": "685",
+    "total_dm_tipe_ii": "2291",
+    "diff_percentage": "-0.53965053763440862"
+  }, {
+    "kabupaten_tinggal": "TABANAN",
+    "total_dm_tipe_i": "574",
+    "total_dm_tipe_ii": "1582",
+    "diff_percentage": "-0.46753246753246752"
+  }, {
+    "kabupaten_tinggal": "JEMBRANA",
+    "total_dm_tipe_i": "255",
+    "total_dm_tipe_ii": "921",
+    "diff_percentage": "-0.56632653061224492"
+  }, {
+    "kabupaten_tinggal": "GIANYAR",
+    "total_dm_tipe_i": "683",
+    "total_dm_tipe_ii": "1537",
+    "diff_percentage": "-0.3846846846846847"
+  }, {
+    "kabupaten_tinggal": "KOTA BATU",
+    "total_dm_tipe_i": "270",
+    "total_dm_tipe_ii": "1278",
+    "diff_percentage": "-0.65116279069767447"
+  }, {
+    "kabupaten_tinggal": "BANYUWANGI",
+    "total_dm_tipe_i": "422",
+    "total_dm_tipe_ii": "1985",
+    "diff_percentage": "-0.64935604486913168"
+  }, {
+    "kabupaten_tinggal": "MAMUJU",
+    "total_dm_tipe_i": "55",
+    "total_dm_tipe_ii": "296",
+    "diff_percentage": "-0.68660968660968658"
+  }, {
+    "kabupaten_tinggal": "SUMBA BARAT DAYA",
+    "total_dm_tipe_i": "29",
+    "total_dm_tipe_ii": "270",
+    "diff_percentage": "-0.80602006688963213"
+  }, {
+    "kabupaten_tinggal": "KOTA MATARAM",
+    "total_dm_tipe_i": "157",
+    "total_dm_tipe_ii": "1838",
+    "diff_percentage": "-0.8426065162907268"
+  }, {
+    "kabupaten_tinggal": "BANGLI",
+    "total_dm_tipe_i": "477",
+    "total_dm_tipe_ii": "373",
+    "diff_percentage": "0.12235294117647059"
+  }, {
+    "kabupaten_tinggal": "SUMBA TIMUR",
+    "total_dm_tipe_i": "20",
+    "total_dm_tipe_ii": "204",
+    "diff_percentage": "-0.8214285714285714"
+  }, {
+    "kabupaten_tinggal": "NGADA",
+    "total_dm_tipe_i": "146",
+    "total_dm_tipe_ii": "85",
+    "diff_percentage": "0.26406926406926406"
+  }, {
+    "kabupaten_tinggal": "SIKKA",
+    "total_dm_tipe_i": "14",
+    "total_dm_tipe_ii": "381",
+    "diff_percentage": "-0.92911392405063287"
+  }, {
+    "kabupaten_tinggal": "LOMBOK UTARA",
+    "total_dm_tipe_i": "289",
+    "total_dm_tipe_ii": "337",
+    "diff_percentage": "-0.076677316293929709"
+  }, {
+    "kabupaten_tinggal": "BIMA",
+    "total_dm_tipe_i": "99",
+    "total_dm_tipe_ii": "368",
+    "diff_percentage": "-0.576017130620985"
+  }, {
+    "kabupaten_tinggal": "SUMENEP",
+    "total_dm_tipe_i": "264",
+    "total_dm_tipe_ii": "836",
+    "diff_percentage": "-0.52"
+  }, {
+    "kabupaten_tinggal": "KOTA TANJUNG PINANG",
+    "total_dm_tipe_i": "144",
+    "total_dm_tipe_ii": "865",
+    "diff_percentage": "-0.71456888007928643"
+  }, {
+    "kabupaten_tinggal": "KARIMUN",
+    "total_dm_tipe_i": "283",
+    "total_dm_tipe_ii": "1170",
+    "diff_percentage": "-0.61046111493461808"
+  }, {
+    "kabupaten_tinggal": "BINTAN",
+    "total_dm_tipe_i": "38",
+    "total_dm_tipe_ii": "624",
+    "diff_percentage": "-0.88519637462235645"
+  }, {
+    "kabupaten_tinggal": "INDRAGIRI HILIR",
+    "total_dm_tipe_i": "161",
+    "total_dm_tipe_ii": "629",
+    "diff_percentage": "-0.59240506329113929"
+  }, {
+    "kabupaten_tinggal": "LINGGA",
+    "total_dm_tipe_i": "39",
+    "total_dm_tipe_ii": "307",
+    "diff_percentage": "-0.77456647398843925"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN ANAMBAS",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "41",
+    "diff_percentage": "-1.0"
+  }, {
+    "kabupaten_tinggal": "KOTAWARINGIN BARAT",
+    "total_dm_tipe_i": "61",
+    "total_dm_tipe_ii": "427",
+    "diff_percentage": "-0.75"
+  }, {
+    "kabupaten_tinggal": "KOTA PALANGKA RAYA",
+    "total_dm_tipe_i": "372",
+    "total_dm_tipe_ii": "932",
+    "diff_percentage": "-0.42944785276073622"
+  }, {
+    "kabupaten_tinggal": "KOTA BINJAI",
+    "total_dm_tipe_i": "88",
+    "total_dm_tipe_ii": "1013",
+    "diff_percentage": "-0.84014532243415074"
+  }, {
+    "kabupaten_tinggal": "LOMBOK BARAT",
+    "total_dm_tipe_i": "116",
+    "total_dm_tipe_ii": "1220",
+    "diff_percentage": "-0.82634730538922152"
+  }, {
+    "kabupaten_tinggal": "KAPUAS",
+    "total_dm_tipe_i": "142",
+    "total_dm_tipe_ii": "351",
+    "diff_percentage": "-0.42393509127789047"
+  }, {
+    "kabupaten_tinggal": "PULANG PISAU",
+    "total_dm_tipe_i": "65",
+    "total_dm_tipe_ii": "233",
+    "diff_percentage": "-0.56375838926174493"
+  }, {
+    "kabupaten_tinggal": "BARITO SELATAN",
+    "total_dm_tipe_i": "34",
+    "total_dm_tipe_ii": "307",
+    "diff_percentage": "-0.80058651026392957"
+  }, {
+    "kabupaten_tinggal": "BARITO TIMUR",
+    "total_dm_tipe_i": "35",
+    "total_dm_tipe_ii": "142",
+    "diff_percentage": "-0.60451977401129942"
+  }, {
+    "kabupaten_tinggal": "BATU BARA",
+    "total_dm_tipe_i": "75",
+    "total_dm_tipe_ii": "463",
+    "diff_percentage": "-0.72118959107806691"
+  }, {
+    "kabupaten_tinggal": "OGAN KOMERING ULU TIMUR",
+    "total_dm_tipe_i": "149",
+    "total_dm_tipe_ii": "716",
+    "diff_percentage": "-0.65549132947976874"
+  }, {
+    "kabupaten_tinggal": "BANDUNG BARAT",
+    "total_dm_tipe_i": "210",
+    "total_dm_tipe_ii": "1329",
+    "diff_percentage": "-0.72709551656920079"
+  }, {
+    "kabupaten_tinggal": "KATINGAN",
+    "total_dm_tipe_i": "109",
+    "total_dm_tipe_ii": "238",
+    "diff_percentage": "-0.37175792507204614"
+  }, {
+    "kabupaten_tinggal": "KAUR",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "66",
+    "diff_percentage": "-0.24528301886792453"
+  }, {
+    "kabupaten_tinggal": "ACEH UTARA",
+    "total_dm_tipe_i": "403",
+    "total_dm_tipe_ii": "826",
+    "diff_percentage": "-0.34418226200162733"
+  }, {
+    "kabupaten_tinggal": "GUNUNG MAS",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "121",
+    "diff_percentage": "-0.50310559006211175"
+  }, {
+    "kabupaten_tinggal": "KOTA PAGAR ALAM",
+    "total_dm_tipe_i": "100",
+    "total_dm_tipe_ii": "411",
+    "diff_percentage": "-0.60861056751467713"
+  }, {
+    "kabupaten_tinggal": "MUSI RAWAS UTARA",
+    "total_dm_tipe_i": "85",
+    "total_dm_tipe_ii": "186",
+    "diff_percentage": "-0.37269372693726938"
+  }, {
+    "kabupaten_tinggal": "EMPAT LAWANG",
+    "total_dm_tipe_i": "66",
+    "total_dm_tipe_ii": "162",
+    "diff_percentage": "-0.42105263157894735"
+  }, {
+    "kabupaten_tinggal": "MURUNG RAYA",
+    "total_dm_tipe_i": "40",
+    "total_dm_tipe_ii": "261",
+    "diff_percentage": "-0.73421926910299007"
+  }, {
+    "kabupaten_tinggal": "BANYUASIN",
+    "total_dm_tipe_i": "98",
+    "total_dm_tipe_ii": "542",
+    "diff_percentage": "-0.69375"
+  }, {
+    "kabupaten_tinggal": "KOTA PRABUMULIH",
+    "total_dm_tipe_i": "191",
+    "total_dm_tipe_ii": "510",
+    "diff_percentage": "-0.45506419400855919"
+  }, {
+    "kabupaten_tinggal": "TAPIN",
+    "total_dm_tipe_i": "63",
+    "total_dm_tipe_ii": "412",
+    "diff_percentage": "-0.73473684210526313"
+  }, {
+    "kabupaten_tinggal": "NUNUKAN",
+    "total_dm_tipe_i": "93",
+    "total_dm_tipe_ii": "265",
+    "diff_percentage": "-0.48044692737430167"
+  }, {
+    "kabupaten_tinggal": "TANA TORAJA",
+    "total_dm_tipe_i": "117",
+    "total_dm_tipe_ii": "193",
+    "diff_percentage": "-0.24516129032258063"
+  }, {
+    "kabupaten_tinggal": "TABALONG",
+    "total_dm_tipe_i": "146",
+    "total_dm_tipe_ii": "489",
+    "diff_percentage": "-0.54015748031496058"
+  }, {
+    "kabupaten_tinggal": "HULU SUNGAI SELATAN",
+    "total_dm_tipe_i": "81",
+    "total_dm_tipe_ii": "479",
+    "diff_percentage": "-0.71071428571428574"
+  }, {
+    "kabupaten_tinggal": "WAJO",
+    "total_dm_tipe_i": "48",
+    "total_dm_tipe_ii": "407",
+    "diff_percentage": "-0.789010989010989"
+  }, {
+    "kabupaten_tinggal": "BARITO KUALA",
+    "total_dm_tipe_i": "23",
+    "total_dm_tipe_ii": "549",
+    "diff_percentage": "-0.91958041958041958"
+  }, {
+    "kabupaten_tinggal": "MALINAU",
+    "total_dm_tipe_i": "39",
+    "total_dm_tipe_ii": "191",
+    "diff_percentage": "-0.66086956521739126"
+  }, {
+    "kabupaten_tinggal": "SUMBAWA",
+    "total_dm_tipe_i": "79",
+    "total_dm_tipe_ii": "663",
+    "diff_percentage": "-0.78706199460916437"
+  }, {
+    "kabupaten_tinggal": "INDRAGIRI HULU",
+    "total_dm_tipe_i": "97",
+    "total_dm_tipe_ii": "260",
+    "diff_percentage": "-0.45658263305322128"
+  }, {
+    "kabupaten_tinggal": "SAMPANG",
+    "total_dm_tipe_i": "85",
+    "total_dm_tipe_ii": "503",
+    "diff_percentage": "-0.71088435374149661"
+  }, {
+    "kabupaten_tinggal": "PENUKAL ABAB LEMATANG ILIR",
+    "total_dm_tipe_i": "125",
+    "total_dm_tipe_ii": "270",
+    "diff_percentage": "-0.36708860759493672"
+  }, {
+    "kabupaten_tinggal": "BANGKA BARAT",
+    "total_dm_tipe_i": "31",
+    "total_dm_tipe_ii": "477",
+    "diff_percentage": "-0.87795275590551181"
+  }, {
+    "kabupaten_tinggal": "BELITUNG",
+    "total_dm_tipe_i": "82",
+    "total_dm_tipe_ii": "805",
+    "diff_percentage": "-0.81510710259301011"
+  }, {
+    "kabupaten_tinggal": "SIMEULUE",
+    "total_dm_tipe_i": "236",
+    "total_dm_tipe_ii": "180",
+    "diff_percentage": "0.13461538461538461"
+  }, {
+    "kabupaten_tinggal": "ACEH SINGKIL",
+    "total_dm_tipe_i": "165",
+    "total_dm_tipe_ii": "321",
+    "diff_percentage": "-0.32098765432098764"
+  }, {
+    "kabupaten_tinggal": "KOTA SUBULUSSALAM",
+    "total_dm_tipe_i": "70",
+    "total_dm_tipe_ii": "369",
+    "diff_percentage": "-0.68109339407744873"
+  }, {
+    "kabupaten_tinggal": "ACEH SELATAN",
+    "total_dm_tipe_i": "464",
+    "total_dm_tipe_ii": "1076",
+    "diff_percentage": "-0.39740259740259742"
+  }, {
+    "kabupaten_tinggal": "NAGAN RAYA",
+    "total_dm_tipe_i": "341",
+    "total_dm_tipe_ii": "325",
+    "diff_percentage": "0.024024024024024024"
+  }, {
+    "kabupaten_tinggal": "ACEH BARAT DAYA",
+    "total_dm_tipe_i": "114",
+    "total_dm_tipe_ii": "574",
+    "diff_percentage": "-0.66860465116279066"
+  }, {
+    "kabupaten_tinggal": "ACEH JAYA",
+    "total_dm_tipe_i": "414",
+    "total_dm_tipe_ii": "117",
+    "diff_percentage": "0.559322033898305"
+  }, {
+    "kabupaten_tinggal": "KOTA TIDORE KEPULAUAN",
+    "total_dm_tipe_i": "195",
+    "total_dm_tipe_ii": "202",
+    "diff_percentage": "-0.017632241813602016"
+  }, {
+    "kabupaten_tinggal": "GAYO LUES",
+    "total_dm_tipe_i": "138",
+    "total_dm_tipe_ii": "127",
+    "diff_percentage": "0.041509433962264149"
+  }, {
+    "kabupaten_tinggal": "ACEH TIMUR",
+    "total_dm_tipe_i": "117",
+    "total_dm_tipe_ii": "447",
+    "diff_percentage": "-0.58510638297872342"
+  }, {
+    "kabupaten_tinggal": "LOMBOK TENGAH",
+    "total_dm_tipe_i": "237",
+    "total_dm_tipe_ii": "766",
+    "diff_percentage": "-0.52741774675972086"
+  }, {
+    "kabupaten_tinggal": "LOMBOK TIMUR",
+    "total_dm_tipe_i": "424",
+    "total_dm_tipe_ii": "1960",
+    "diff_percentage": "-0.64429530201342278"
+  }, {
+    "kabupaten_tinggal": "ACEH TENGAH",
+    "total_dm_tipe_i": "231",
+    "total_dm_tipe_ii": "343",
+    "diff_percentage": "-0.1951219512195122"
+  }, {
+    "kabupaten_tinggal": "BENER MERIAH",
+    "total_dm_tipe_i": "109",
+    "total_dm_tipe_ii": "258",
+    "diff_percentage": "-0.40599455040871935"
+  }, {
+    "kabupaten_tinggal": "SUMBAWA BARAT",
+    "total_dm_tipe_i": "121",
+    "total_dm_tipe_ii": "347",
+    "diff_percentage": "-0.48290598290598291"
+  }, {
+    "kabupaten_tinggal": "DOMPU",
+    "total_dm_tipe_i": "218",
+    "total_dm_tipe_ii": "473",
+    "diff_percentage": "-0.36903039073806077"
+  }, {
+    "kabupaten_tinggal": "PIDIE JAYA",
+    "total_dm_tipe_i": "272",
+    "total_dm_tipe_ii": "426",
+    "diff_percentage": "-0.22063037249283668"
+  }, {
+    "kabupaten_tinggal": "ACEH TAMIANG",
+    "total_dm_tipe_i": "89",
+    "total_dm_tipe_ii": "875",
+    "diff_percentage": "-0.81535269709543567"
+  }, {
+    "kabupaten_tinggal": "KOTA BIMA",
+    "total_dm_tipe_i": "124",
+    "total_dm_tipe_ii": "405",
+    "diff_percentage": "-0.5311909262759924"
+  }, {
+    "kabupaten_tinggal": "MANGGARAI BARAT",
+    "total_dm_tipe_i": "50",
+    "total_dm_tipe_ii": "168",
+    "diff_percentage": "-0.54128440366972475"
+  }, {
+    "kabupaten_tinggal": "KOTA PADANGSIDIMPUAN",
+    "total_dm_tipe_i": "164",
+    "total_dm_tipe_ii": "638",
+    "diff_percentage": "-0.59102244389027436"
+  }, {
+    "kabupaten_tinggal": "GARUT",
+    "total_dm_tipe_i": "68",
+    "total_dm_tipe_ii": "2446",
+    "diff_percentage": "-0.94590294351630866"
+  }, {
+    "kabupaten_tinggal": "TRENGGALEK",
+    "total_dm_tipe_i": "89",
+    "total_dm_tipe_ii": "1059",
+    "diff_percentage": "-0.84494773519163768"
+  }, {
+    "kabupaten_tinggal": "TUBAN",
+    "total_dm_tipe_i": "207",
+    "total_dm_tipe_ii": "2289",
+    "diff_percentage": "-0.83413461538461542"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN MENTAWAI",
+    "total_dm_tipe_i": "5",
+    "total_dm_tipe_ii": "46",
+    "diff_percentage": "-0.803921568627451"
+  }, {
+    "kabupaten_tinggal": "KOTA SAWAH LUNTO",
+    "total_dm_tipe_i": "42",
+    "total_dm_tipe_ii": "337",
+    "diff_percentage": "-0.77836411609498679"
+  }, {
+    "kabupaten_tinggal": "SELUMA",
+    "total_dm_tipe_i": "30",
+    "total_dm_tipe_ii": "458",
+    "diff_percentage": "-0.87704918032786883"
+  }, {
+    "kabupaten_tinggal": "KOTA PADANG PANJANG",
+    "total_dm_tipe_i": "36",
+    "total_dm_tipe_ii": "442",
+    "diff_percentage": "-0.84937238493723854"
+  }, {
+    "kabupaten_tinggal": "PADANG LAWAS",
+    "total_dm_tipe_i": "84",
+    "total_dm_tipe_ii": "302",
+    "diff_percentage": "-0.56476683937823835"
+  }, {
+    "kabupaten_tinggal": "LABUHAN BATU UTARA",
+    "total_dm_tipe_i": "48",
+    "total_dm_tipe_ii": "269",
+    "diff_percentage": "-0.69716088328075709"
+  }, {
+    "kabupaten_tinggal": "ROKAN HILIR",
+    "total_dm_tipe_i": "43",
+    "total_dm_tipe_ii": "432",
+    "diff_percentage": "-0.81894736842105265"
+  }, {
+    "kabupaten_tinggal": "PADANG LAWAS UTARA",
+    "total_dm_tipe_i": "69",
+    "total_dm_tipe_ii": "322",
+    "diff_percentage": "-0.6470588235294118"
+  }, {
+    "kabupaten_tinggal": "KOTA BUKITTINGGI",
+    "total_dm_tipe_i": "14",
+    "total_dm_tipe_ii": "720",
+    "diff_percentage": "-0.96185286103542234"
+  }, {
+    "kabupaten_tinggal": "TASIKMALAYA",
+    "total_dm_tipe_i": "161",
+    "total_dm_tipe_ii": "1035",
+    "diff_percentage": "-0.73076923076923073"
+  }, {
+    "kabupaten_tinggal": "KOTA BANJAR BARU",
+    "total_dm_tipe_i": "100",
+    "total_dm_tipe_ii": "813",
+    "diff_percentage": "-0.78094194961664842"
+  }, {
+    "kabupaten_tinggal": "KOTA PROBOLINGGO",
+    "total_dm_tipe_i": "99",
+    "total_dm_tipe_ii": "771",
+    "diff_percentage": "-0.77241379310344827"
+  }, {
+    "kabupaten_tinggal": "LABUHAN BATU SELATAN",
+    "total_dm_tipe_i": "254",
+    "total_dm_tipe_ii": "483",
+    "diff_percentage": "-0.310719131614654"
+  }, {
+    "kabupaten_tinggal": "PURWAKARTA",
+    "total_dm_tipe_i": "166",
+    "total_dm_tipe_ii": "1365",
+    "diff_percentage": "-0.78314826910516"
+  }, {
+    "kabupaten_tinggal": "JAYAWIJAYA",
+    "total_dm_tipe_i": "9",
+    "total_dm_tipe_ii": "77",
+    "diff_percentage": "-0.79069767441860461"
+  }, {
+    "kabupaten_tinggal": "MAROS",
+    "total_dm_tipe_i": "128",
+    "total_dm_tipe_ii": "486",
+    "diff_percentage": "-0.58306188925081437"
+  }, {
+    "kabupaten_tinggal": "MERAUKE",
+    "total_dm_tipe_i": "34",
+    "total_dm_tipe_ii": "386",
+    "diff_percentage": "-0.83809523809523812"
+  }, {
+    "kabupaten_tinggal": "TOBA SAMOSIR",
+    "total_dm_tipe_i": "85",
+    "total_dm_tipe_ii": "286",
+    "diff_percentage": "-0.5417789757412399"
+  }, {
+    "kabupaten_tinggal": "TULUNGAGUNG",
+    "total_dm_tipe_i": "392",
+    "total_dm_tipe_ii": "2380",
+    "diff_percentage": "-0.71717171717171713"
+  }, {
+    "kabupaten_tinggal": "RAJA AMPAT",
+    "total_dm_tipe_i": "7",
+    "total_dm_tipe_ii": "69",
+    "diff_percentage": "-0.81578947368421051"
+  }, {
+    "kabupaten_tinggal": "MALUKU TENGGARA",
+    "total_dm_tipe_i": "16",
+    "total_dm_tipe_ii": "116",
+    "diff_percentage": "-0.75757575757575757"
+  }, {
+    "kabupaten_tinggal": "MANGGARAI",
+    "total_dm_tipe_i": "8",
+    "total_dm_tipe_ii": "189",
+    "diff_percentage": "-0.91878172588832485"
+  }, {
+    "kabupaten_tinggal": "BELITUNG TIMUR",
+    "total_dm_tipe_i": "36",
+    "total_dm_tipe_ii": "434",
+    "diff_percentage": "-0.84680851063829787"
+  }, {
+    "kabupaten_tinggal": "SORONG SELATAN",
+    "total_dm_tipe_i": "23",
+    "total_dm_tipe_ii": "43",
+    "diff_percentage": "-0.30303030303030304"
+  }, {
+    "kabupaten_tinggal": "PANGKAJENE KEPULAUAN",
+    "total_dm_tipe_i": "97",
+    "total_dm_tipe_ii": "226",
+    "diff_percentage": "-0.39938080495356038"
+  }, {
+    "kabupaten_tinggal": "FAKFAK",
+    "total_dm_tipe_i": "12",
+    "total_dm_tipe_ii": "123",
+    "diff_percentage": "-0.82222222222222219"
+  }, {
+    "kabupaten_tinggal": "TANA TIDUNG",
+    "total_dm_tipe_i": "19",
+    "total_dm_tipe_ii": "91",
+    "diff_percentage": "-0.65454545454545454"
+  }, {
+    "kabupaten_tinggal": "BANJAR",
+    "total_dm_tipe_i": "97",
+    "total_dm_tipe_ii": "783",
+    "diff_percentage": "-0.77954545454545454"
+  }, {
+    "kabupaten_tinggal": "HULU SUNGAI UTARA",
+    "total_dm_tipe_i": "50",
+    "total_dm_tipe_ii": "536",
+    "diff_percentage": "-0.82935153583617749"
+  }, {
+    "kabupaten_tinggal": "ASAHAN",
+    "total_dm_tipe_i": "77",
+    "total_dm_tipe_ii": "701",
+    "diff_percentage": "-0.80205655526992292"
+  }, {
+    "kabupaten_tinggal": "BANGKA TENGAH",
+    "total_dm_tipe_i": "98",
+    "total_dm_tipe_ii": "526",
+    "diff_percentage": "-0.6858974358974359"
+  }, {
+    "kabupaten_tinggal": "ALOR",
+    "total_dm_tipe_i": "25",
+    "total_dm_tipe_ii": "185",
+    "diff_percentage": "-0.76190476190476186"
+  }, {
+    "kabupaten_tinggal": "SINJAI",
+    "total_dm_tipe_i": "33",
+    "total_dm_tipe_ii": "421",
+    "diff_percentage": "-0.85462555066079293"
+  }, {
+    "kabupaten_tinggal": "PANGANDARAN",
+    "total_dm_tipe_i": "37",
+    "total_dm_tipe_ii": "126",
+    "diff_percentage": "-0.54601226993865026"
+  }, {
+    "kabupaten_tinggal": "KEPULAUAN SELAYAR",
+    "total_dm_tipe_i": "185",
+    "total_dm_tipe_ii": "345",
+    "diff_percentage": "-0.30188679245283018"
+  }, {
+    "kabupaten_tinggal": "ENREKANG",
+    "total_dm_tipe_i": "58",
+    "total_dm_tipe_ii": "417",
+    "diff_percentage": "-0.75578947368421057"
+  }, {
+    "kabupaten_tinggal": "BULUKUMBA",
+    "total_dm_tipe_i": "191",
+    "total_dm_tipe_ii": "910",
+    "diff_percentage": "-0.65304268846503177"
+  }, {
+    "kabupaten_tinggal": "TAKALAR",
+    "total_dm_tipe_i": "182",
+    "total_dm_tipe_ii": "785",
+    "diff_percentage": "-0.62357807652533614"
+  }, {
+    "kabupaten_tinggal": "LUWU TIMUR",
+    "total_dm_tipe_i": "139",
+    "total_dm_tipe_ii": "413",
+    "diff_percentage": "-0.49637681159420288"
+  }, {
+    "kabupaten_tinggal": "KOTA BANJAR",
+    "total_dm_tipe_i": "80",
+    "total_dm_tipe_ii": "370",
+    "diff_percentage": "-0.64444444444444449"
+  }, {
+    "kabupaten_tinggal": "BANTAENG",
+    "total_dm_tipe_i": "67",
+    "total_dm_tipe_ii": "653",
+    "diff_percentage": "-0.81388888888888888"
+  }, {
+    "kabupaten_tinggal": "JENEPONTO",
+    "total_dm_tipe_i": "331",
+    "total_dm_tipe_ii": "289",
+    "diff_percentage": "0.067741935483870974"
+  }, {
+    "kabupaten_tinggal": "LEBONG",
+    "total_dm_tipe_i": "54",
+    "total_dm_tipe_ii": "203",
+    "diff_percentage": "-0.57976653696498059"
+  }, {
+    "kabupaten_tinggal": "LUWU UTARA",
+    "total_dm_tipe_i": "223",
+    "total_dm_tipe_ii": "343",
+    "diff_percentage": "-0.21201413427561838"
+  }, {
+    "kabupaten_tinggal": "BONE",
+    "total_dm_tipe_i": "95",
+    "total_dm_tipe_ii": "473",
+    "diff_percentage": "-0.66549295774647887"
+  }, {
+    "kabupaten_tinggal": "KOTA KUPANG",
+    "total_dm_tipe_i": "258",
+    "total_dm_tipe_ii": "1499",
+    "diff_percentage": "-0.70631758679567447"
+  }, {
+    "kabupaten_tinggal": "TIMOR TENGAH SELATAN",
+    "total_dm_tipe_i": "107",
+    "total_dm_tipe_ii": "110",
+    "diff_percentage": "-0.013824884792626729"
+  }, {
+    "kabupaten_tinggal": "SOPPENG",
+    "total_dm_tipe_i": "150",
+    "total_dm_tipe_ii": "393",
+    "diff_percentage": "-0.44751381215469616"
+  }, {
+    "kabupaten_tinggal": "SORONG",
+    "total_dm_tipe_i": "32",
+    "total_dm_tipe_ii": "179",
+    "diff_percentage": "-0.69668246445497628"
+  }, {
+    "kabupaten_tinggal": "SERAM BAGIAN TIMUR",
+    "total_dm_tipe_i": "6",
+    "total_dm_tipe_ii": "110",
+    "diff_percentage": "-0.896551724137931"
+  }, {
+    "kabupaten_tinggal": "KOTA PALOPO",
+    "total_dm_tipe_i": "41",
+    "total_dm_tipe_ii": "650",
+    "diff_percentage": "-0.88133140376266283"
+  }, {
+    "kabupaten_tinggal": "TORAJA UTARA",
+    "total_dm_tipe_i": "25",
+    "total_dm_tipe_ii": "256",
+    "diff_percentage": "-0.8220640569395018"
+  }, {
+    "kabupaten_tinggal": "PAKPAK BHARAT",
+    "total_dm_tipe_i": "64",
+    "total_dm_tipe_ii": "173",
+    "diff_percentage": "-0.459915611814346"
+  }, {
+    "kabupaten_tinggal": "TANAH BUMBU",
+    "total_dm_tipe_i": "160",
+    "total_dm_tipe_ii": "321",
+    "diff_percentage": "-0.33471933471933474"
+  }, {
+    "kabupaten_tinggal": "HULU SUNGAI TENGAH",
+    "total_dm_tipe_i": "99",
+    "total_dm_tipe_ii": "758",
+    "diff_percentage": "-0.76896149358226373"
+  }, {
+    "kabupaten_tinggal": "MALUKU TENGGARA BARAT",
+    "total_dm_tipe_i": "42",
+    "total_dm_tipe_ii": "76",
+    "diff_percentage": "-0.288135593220339"
+  }, {
+    "kabupaten_tinggal": "SERAM BAGIAN BARAT",
+    "total_dm_tipe_i": "32",
+    "total_dm_tipe_ii": "60",
+    "diff_percentage": "-0.30434782608695654"
+  }, {
+    "kabupaten_tinggal": "BENGKULU TENGAH",
+    "total_dm_tipe_i": "47",
+    "total_dm_tipe_ii": "303",
+    "diff_percentage": "-0.73142857142857143"
+  }, {
+    "kabupaten_tinggal": "BLITAR",
+    "total_dm_tipe_i": "667",
+    "total_dm_tipe_ii": "1095",
+    "diff_percentage": "-0.24290578887627695"
+  }, {
+    "kabupaten_tinggal": "NIAS",
+    "total_dm_tipe_i": "98",
+    "total_dm_tipe_ii": "70",
+    "diff_percentage": "0.16666666666666666"
+  }, {
+    "kabupaten_tinggal": "NIAS UTARA",
+    "total_dm_tipe_i": "67",
+    "total_dm_tipe_ii": "84",
+    "diff_percentage": "-0.11258278145695365"
+  }, {
+    "kabupaten_tinggal": "KOTA SIBOLGA",
+    "total_dm_tipe_i": "94",
+    "total_dm_tipe_ii": "1116",
+    "diff_percentage": "-0.84462809917355375"
+  }, {
+    "kabupaten_tinggal": "POLEWALI MANDAR",
+    "total_dm_tipe_i": "243",
+    "total_dm_tipe_ii": "647",
+    "diff_percentage": "-0.45393258426966293"
+  }, {
+    "kabupaten_tinggal": "MAJENE",
+    "total_dm_tipe_i": "33",
+    "total_dm_tipe_ii": "138",
+    "diff_percentage": "-0.61403508771929827"
+  }, {
+    "kabupaten_tinggal": "LABUHAN BATU",
+    "total_dm_tipe_i": "129",
+    "total_dm_tipe_ii": "542",
+    "diff_percentage": "-0.61549925484351709"
+  }, {
+    "kabupaten_tinggal": "LEMBATA",
+    "total_dm_tipe_i": "74",
+    "total_dm_tipe_ii": "158",
+    "diff_percentage": "-0.36206896551724138"
+  }, {
+    "kabupaten_tinggal": "MAMASA",
+    "total_dm_tipe_i": "97",
+    "total_dm_tipe_ii": "200",
+    "diff_percentage": "-0.34680134680134678"
+  }, {
+    "kabupaten_tinggal": "TAPANULI SELATAN",
+    "total_dm_tipe_i": "37",
+    "total_dm_tipe_ii": "180",
+    "diff_percentage": "-0.65898617511520741"
+  }, {
+    "kabupaten_tinggal": "BANGKALAN",
+    "total_dm_tipe_i": "229",
+    "total_dm_tipe_ii": "796",
+    "diff_percentage": "-0.55317073170731712"
+  }, {
+    "kabupaten_tinggal": "PROBOLINGGO",
+    "total_dm_tipe_i": "110",
+    "total_dm_tipe_ii": "888",
+    "diff_percentage": "-0.779559118236473"
+  }, {
+    "kabupaten_tinggal": "BONDOWOSO",
+    "total_dm_tipe_i": "224",
+    "total_dm_tipe_ii": "825",
+    "diff_percentage": "-0.572926596758818"
+  }, {
+    "kabupaten_tinggal": "SUMBA BARAT",
+    "total_dm_tipe_i": "28",
+    "total_dm_tipe_ii": "130",
+    "diff_percentage": "-0.64556962025316456"
+  }, {
+    "kabupaten_tinggal": "SUMBA TENGAH",
+    "total_dm_tipe_i": "46",
+    "total_dm_tipe_ii": "111",
+    "diff_percentage": "-0.4140127388535032"
+  }, {
+    "kabupaten_tinggal": "KUPANG",
+    "total_dm_tipe_i": "16",
+    "total_dm_tipe_ii": "306",
+    "diff_percentage": "-0.90062111801242239"
+  }, {
+    "kabupaten_tinggal": "TIMOR TENGAH UTARA",
+    "total_dm_tipe_i": "21",
+    "total_dm_tipe_ii": "278",
+    "diff_percentage": "-0.85953177257525082"
+  }, {
+    "kabupaten_tinggal": "ASMAT",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "0",
+    "diff_percentage": null
+  }, {
+    "kabupaten_tinggal": "DAIRI",
+    "total_dm_tipe_i": "84",
+    "total_dm_tipe_ii": "450",
+    "diff_percentage": "-0.6853932584269663"
+  }, {
+    "kabupaten_tinggal": "BELU",
+    "total_dm_tipe_i": "23",
+    "total_dm_tipe_ii": "183",
+    "diff_percentage": "-0.77669902912621358"
+  }, {
+    "kabupaten_tinggal": "KEEROM",
+    "total_dm_tipe_i": "5",
+    "total_dm_tipe_ii": "149",
+    "diff_percentage": "-0.935064935064935"
+  }, {
+    "kabupaten_tinggal": "FLORES TIMUR",
+    "total_dm_tipe_i": "93",
+    "total_dm_tipe_ii": "284",
+    "diff_percentage": "-0.506631299734748"
+  }, {
+    "kabupaten_tinggal": "ENDE",
+    "total_dm_tipe_i": "20",
+    "total_dm_tipe_ii": "328",
+    "diff_percentage": "-0.88505747126436785"
+  }, {
+    "kabupaten_tinggal": "NAGEKEO",
+    "total_dm_tipe_i": "22",
+    "total_dm_tipe_ii": "114",
+    "diff_percentage": "-0.67647058823529416"
+  }, {
+    "kabupaten_tinggal": "ROTE NDAO",
+    "total_dm_tipe_i": "32",
+    "total_dm_tipe_ii": "119",
+    "diff_percentage": "-0.57615894039735094"
+  }, {
+    "kabupaten_tinggal": "PAMEKASAN",
+    "total_dm_tipe_i": "105",
+    "total_dm_tipe_ii": "858",
+    "diff_percentage": "-0.7819314641744548"
+  }, {
+    "kabupaten_tinggal": "MAYBRAT",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "3",
+    "diff_percentage": "-1.0"
+  }, {
+    "kabupaten_tinggal": "TAMBRAUW",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "1",
+    "diff_percentage": "-1.0"
+  }, {
+    "kabupaten_tinggal": "MANOKWARI SELATAN",
+    "total_dm_tipe_i": "0",
+    "total_dm_tipe_ii": "0",
+    "diff_percentage": null
+  }]
