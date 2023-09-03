@@ -1,0 +1,73 @@
+[{
+    "kategori_umur": "65 Tahun ke Atas (Manula)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "22674"
+  }, {
+    "kategori_umur": "46-55 Tahun (Lansia Awal)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "26723"
+  }, {
+    "kategori_umur": "65 Tahun ke Atas (Manula)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "163229"
+  }, {
+    "kategori_umur": "56-65 Tahun (Lansia Akhir)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "235970"
+  }, {
+    "kategori_umur": "46-55 Tahun (Lansia Awal)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "138544"
+  }, {
+    "kategori_umur": "56-65 Tahun (Lansia Akhir)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "39913"
+  }, {
+    "kategori_umur": "36-45 Tahun (Dewasa Akhir)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "32555"
+  }, {
+    "kategori_umur": "26-35 Tahun (Dewasa Awal)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "3787"
+  }, {
+    "kategori_umur": "26-35 Tahun (Dewasa Awal)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "2047"
+  }, {
+    "kategori_umur": "36-45 Tahun (Dewasa Akhir)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "7173"
+  }, {
+    "kategori_umur": "17-25 Tahun (Remaja Akhir)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "874"
+  }, {
+    "kategori_umur": "06-11 Tahun (Kanak-kanak)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "66"
+  }, {
+    "kategori_umur": "17-25 Tahun (Remaja Akhir)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "663"
+  }, {
+    "kategori_umur": "06-11 Tahun (Kanak-kanak)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "72"
+  }, {
+    "kategori_umur": "12-16 Tahun (Remaja Awal)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "206"
+  }, {
+    "kategori_umur": "12-16 Tahun (Remaja Awal)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "237"
+  }, {
+    "kategori_umur": "00-05 Tahun (Balita)",
+    "keluhan": "DM Tipe I",
+    "jumlah_kunjungan": "21"
+  }, {
+    "kategori_umur": "00-05 Tahun (Balita)",
+    "keluhan": "DM Tipe II",
+    "jumlah_kunjungan": "1"
+  }]
