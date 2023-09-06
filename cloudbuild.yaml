@@ -1,6 +1,12 @@
 steps:
   - name: 'gcr.io/cloud-builders/git'
     args: ['clone', 'https://github.com/bhaskoro-muthohar/oeroenremboog']
+    id: 'git-clone'
+
+  - name: 'gcr.io/cloud-builders/git'
+    args: ['lfs', 'pull']
+    dir: 'oeroenremboog'
+    waitFor: ['git-clone']
 
   - name: 'gcr.io/cloud-builders/docker'
     args: ['build', '-t', 'gcr.io/warm-canto-396605/oeroenremboog', './oeroenremboog']
