@@ -5,6 +5,8 @@ import json
 import plotly.express as px
 import plotly.graph_objs as go
 
+from src.pages import DiabetesMellitusInteractiveMap
+
 class GambaranUmum:
     def __call__(self):
         self.gambaran_umum()
@@ -135,3 +137,21 @@ class GambaranUmum:
         st.plotly_chart(fig)
 
         st.subheader('Persebaran Jumlah Kasus DM per Kabupaten/Kota')
+
+        col1, col2 = st.columns([3, 1])
+
+        with col1:
+            DiabetesMellitusInteractiveMap_instance = DiabetesMellitusInteractiveMap.DiabetesMellitusMapPlotter()
+            DiabetesMellitusInteractiveMap_instance()
+
+        with col2:
+            st.markdown("&nbsp;", unsafe_allow_html=True)
+            st.markdown("&nbsp;", unsafe_allow_html=True)
+            st.markdown("&nbsp;", unsafe_allow_html=True)
+            st.markdown("&nbsp;", unsafe_allow_html=True)
+            st.markdown("""
+            **Catatan:**
+
+            - Kabupaten/kota yang berarsiran **hijau** menandakan bahwa terdapat lebih banyak kasus DM tipe I daripada DM tipe II.
+            - Kabupaten/kota yang berarsiran **oranye** menandakan bahwa terdapat lebih banyak kasus DM tipe II daripada DM tipe I.
+            """)

@@ -1,7 +1,9 @@
 import os
 import duckdb
+import geopandas as gpd
 from tqdm import tqdm
 import glob
+from shapely import wkb
 
 def create_tables(cursor):
     tables = [
@@ -213,8 +215,68 @@ def create_tables(cursor):
     );
     """)
 
+def ingest_geojson_files(conn):
+    conn.execute("INSTALL 'spatial';")
+    conn.execute("LOAD 'spatial';")
+
+    cursor = conn.cursor()
+    
+    indonesia_map = gpd.read_file('src/data/indonesia-cities.json')
+    indonesia_map = indonesia_map.to_crs("EPSG:3395")
+    indonesia_map['geometry'] = indonesia_map['geometry'].centroid
+    indonesia_map = indonesia_map.to_crs("EPSG:4326")
+    indonesia_map['latitude'] = indonesia_map['geometry'].y
+    indonesia_map['longitude'] = indonesia_map['geometry'].x
+    indonesia_map['geometry_wkb'] = indonesia_map['geometry'].apply(lambda geom: wkb.dumps(geom, hex=True))
+
+    cursor.execute("DROP TABLE IF EXISTS indonesia_cities;")
+    
+    cursor.execute("""
+    CREATE TABLE indonesia_cities (
+        Name VARCHAR,
+        latitude FLOAT,
+        longitude FLOAT,
+        geometry GEOMETRY
+    );
+    """)
+
+    for idx, row in indonesia_map.iterrows():
+        cursor.execute("""
+        INSERT INTO indonesia_cities (Name, latitude, longitude, geometry)
+        VALUES (?, ?, ?, ?);
+        """, (row['Name'], row['latitude'], row['longitude'], row['geometry_wkb']))
+
+    indonesia_prov_map = gpd.read_file('src/data/indonesia-prov.geojson')
+    indonesia_prov_map = indonesia_prov_map.to_crs("EPSG:3395")
+    indonesia_prov_map['geometry'] = indonesia_prov_map['geometry'].centroid
+    indonesia_prov_map = indonesia_prov_map.to_crs("EPSG:4326")
+    indonesia_prov_map['latitude'] = indonesia_prov_map['geometry'].y
+    indonesia_prov_map['longitude'] = indonesia_prov_map['geometry'].x
+
+    cursor.execute("DROP TABLE IF EXISTS indonesia_provinces;")
+    
+    cursor.execute("""
+    CREATE TABLE indonesia_provinces (
+        ID INTEGER,
+        kode INTEGER,
+        Propinsi VARCHAR,
+        latitude FLOAT,
+        longitude FLOAT
+    );
+    """)
+
+    for idx, row in indonesia_prov_map.iterrows():
+        cursor.execute("""
+        INSERT INTO indonesia_provinces (ID, kode, Propinsi, latitude, longitude)
+        VALUES (?, ?, ?, ?, ?);
+        """, (row['ID'], row['kode'], row['Propinsi'], row['latitude'], row['longitude']))
+
+    conn.commit()
+    
+    cursor.close()
+
 def ingest_parquet_files(conn):
-    parquet_paths = glob.glob("raw_data/*.parquet")
+    parquet_paths = glob.glob("src/data/raw_data/*.parquet")
     cursor = conn.cursor()
     for path in tqdm(parquet_paths, desc="Ingesting Parquet files"):
         table_name = os.path.basename(path).split('.')[0].lower()
@@ -233,8 +295,14 @@ def main():
     # Ingest Parquet files into DuckDB
     ingest_parquet_files(conn)
 
+    # Ingest GeoJSON files into DuckDB
+    ingest_geojson_files(conn)
+
     # Close connection
     cursor.close()
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()

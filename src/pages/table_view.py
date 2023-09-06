@@ -1,13 +1,10 @@
 import streamlit as st
-from .interactive_map import InteractiveMap
 
 class TableView:
     def __call__(self):
         self.table_view()
 
     def table_view(self):
-        interactive_map = InteractiveMap()
-        indonesia_map = interactive_map()
 
         st.title('Table Data from Interactive Map')
 
