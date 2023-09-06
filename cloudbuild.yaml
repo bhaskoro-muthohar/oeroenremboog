@@ -3,10 +3,6 @@ steps:
     args: ['clone', 'https://github.com/bhaskoro-muthohar/oeroenremboog']
     id: 'git-clone'
 
-  - name: 'alpine'
-    args: ['apk', 'add', '--no-cache', 'git', 'git-lfs']
-    waitFor: ['git-clone']
-
   - name: 'gcr.io/cloud-builders/git'
     args: ['lfs', 'pull']
     dir: 'oeroenremboog'
